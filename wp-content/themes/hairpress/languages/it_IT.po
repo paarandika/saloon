@@ -1,0 +1,1348 @@
+# Copyright (C) 2014 ProteusThemes
+# This file is distributed under the GPL 2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hairpress WP Theme\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/hairpress\n"
+"POT-Creation-Date: 2014-02-12 11:36:57+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-02-13 16:07+0100\n"
+"Last-Translator: Nicola Mustone <nicola.mustone@ecomstore.net>\n"
+"Language-Team: ECom <info@ecomlucera.it>\n"
+"X-Generator: Poedit 1.6.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it_IT\n"
+
+#: 404.php:5 inc/helpers.php:124
+msgid "Error 404"
+msgstr "Errore 404"
+
+#. translators: the first string %s for line break, the second and third %s for
+#. link to home page wrap
+#: 404.php:13
+msgid ""
+"Looks like something went wrong! The page you were looking for is not here. "
+"%s Go %sHome%s or try to search"
+msgstr ""
+"Sembra che qualcosa sia andata male! La pagina che stai cercando non si "
+"trova qui. %s Vai alla %sHome%s o esegui una ricerca"
+
+#: _misc/translate/pomo/sample/app.php:56
+msgid "Welcome %s!"
+msgstr "Benvenuto %s!"
+
+#: _misc/translate/pomo/sample/app.php:60
+msgid "A string with low priority!"
+msgstr "Una stringa con bassa priorit&agrave;"
+
+#: _misc/translate/pomo/sample/app.php:62
+msgid "Bye\n"
+msgstr "Ciao\n"
+
+#: archive-gallery.php:58 single-gallery.php:57
+msgid "Gallery not found"
+msgstr "Galleria non trovata"
+
+#: archive-services.php:68 index.php:70 single.php:72
+msgid "Not Found"
+msgstr "Non trovato"
+
+#: archive-services.php:71 front-template-page.php:51 page-no-sidebar.php:46
+#: page-right-sidebar.php:46 page.php:46 services-page.php:62
+#: single-services.php:70 single.php:75
+msgid "Page not found"
+msgstr "Pagina non trovata"
+
+#: comments.php:23
+msgid "comments"
+msgstr "commenti"
+
+#: comments.php:23
+msgid "comment"
+msgstr "commento"
+
+#: comments.php:34
+msgid "Comment navigation"
+msgstr "Navigazione commento"
+
+#: comments.php:35
+msgid "&larr; Older Comments"
+msgstr "&larr; Commenti pi&ugrave; vecchi"
+
+#: comments.php:36
+msgid "Newer Comments &rarr;"
+msgstr "Commenti pi&ugrave; recenti &rarr;"
+
+#: comments.php:46 comments.php:99
+msgid "Comments for this post are closed."
+msgstr "I commenti per questo articolo sono chiusi."
+
+#: comments.php:65
+msgid "Write a Comment"
+msgstr "Scrivi un Commento"
+
+#: comments.php:66
+msgid "Fields with * are requierd"
+msgstr "I campi contrassegnati dal * sono obbligatori"
+
+#: comments.php:77
+msgid "First and Last name"
+msgstr "Nome e Cognome"
+
+#: comments.php:78
+msgid "E-mail Address"
+msgstr "Indirizzo email"
+
+#: comments.php:79
+msgid "Website"
+msgstr "Sito web"
+
+#: comments.php:88
+msgctxt "noun"
+msgid "Your comment"
+msgstr "Il tuo commento"
+
+#: comments.php:90
+msgid "Post A Comment"
+msgstr "Scrivi un Commento"
+
+#: darkstripe.php:18 titlearea.php:41
+msgid "Meet the Team"
+msgstr "Incontra il Team"
+
+#: inc/custom-comments.php:51
+msgid "<p class=\"name\"><span>%s</span> said:</p>"
+msgstr "<p class=\"name\"><span>%s</span> ha detto:</p>"
+
+#. translators: 1: date, 2: time
+#: inc/custom-comments.php:57
+msgid "%1$s at %2$s"
+msgstr "%1$s alle %2$s"
+
+#: inc/custom-comments.php:57
+msgid "(Edit)"
+msgstr "(Modifica)"
+
+#: inc/custom-comments.php:65
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento &egrave; in attesa di moderazione."
+
+#: inc/helpers.php:85
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: inc/helpers.php:119
+msgid "Home Page"
+msgstr "Pagina Principale"
+
+#: inc/helpers.php:120
+msgid "Archive by Category &quot;%s&quot;"
+msgstr "Archivio della categoria &quot;%s&quot;"
+
+#: inc/helpers.php:121
+msgid "Search Results for &quot;%s&quot; Query"
+msgstr "Risultati di ricerca per la query &quot;%s&quot;"
+
+#: inc/helpers.php:122
+msgid "Posts Tagged &quot;%s&quot;"
+msgstr "Articoli taggati con &quot;%s&quot;"
+
+#: inc/helpers.php:123
+msgid "Articles Posted by %s"
+msgstr "Articoli scritti da %s"
+
+#: inc/helpers.php:245
+msgid "Page"
+msgstr "Pagina"
+
+#: inc/helpers.php:293
+msgid "Previous"
+msgstr "Precedente"
+
+#: inc/helpers.php:308
+msgid "Next"
+msgstr "Successivo"
+
+#: inc/ot-meta-boxes.php:14 inc/ot-meta-boxes.php:57 inc/ot-meta-boxes.php:112
+msgid "Hairpress Options"
+msgstr "Opzioni Hairpress"
+
+#: inc/ot-meta-boxes.php:15 inc/ot-meta-boxes.php:58 inc/ot-meta-boxes.php:113
+msgid "Options specific to Hairpress theme"
+msgstr "Opzioni specifiche del tema Hairpress"
+
+#: inc/ot-meta-boxes.php:22 inc/ot-meta-boxes.php:65 inc/ot-meta-boxes.php:120
+msgid "Subtitle"
+msgstr "Sottotitolo"
+
+#: inc/ot-meta-boxes.php:23 inc/ot-meta-boxes.php:66 inc/ot-meta-boxes.php:121
+msgid ""
+"Subtitle of this page (shown right below the main title). Leave blank if you "
+"don't want to show."
+msgstr ""
+"Sottotitolo di questa pagina (mostrato sotto il titolo principale). Lascia "
+"vuoto se non vuoi mostrarlo."
+
+#: inc/ot-meta-boxes.php:31 inc/ot-meta-boxes.php:94
+msgid "Background Image for Title Area"
+msgstr "Immagine di sfondo per l'area del Titolo"
+
+#: inc/ot-meta-boxes.php:32 inc/ot-meta-boxes.php:95
+msgid ""
+"You can upload a custom image for the background of the title area for "
+"individual page."
+msgstr ""
+"Puoi caricare un'immagine personalizzata per lo sfondo dell'area del titolo "
+"per ogni pagina."
+
+#: inc/ot-meta-boxes.php:40
+msgid "Slider Revolution alias"
+msgstr "Alias Slider Revolution"
+
+#: inc/ot-meta-boxes.php:41
+msgid ""
+"Only applies to the templates \"Front Page with Revolution Slider\" and "
+"\"Front page with Content\". Paste the alias of the slider you created in "
+"the Revolution Slider plugin to this box (only <a href=\"https://www.diigo."
+"com/item/image/3rli1/s9bj?size=o\" target=\"_blank\">alias</a>, not the "
+"whole shortcode).<br/>If left empy, the theme slider will be shown."
+msgstr ""
+"Viene applicato solo ai template \"Pagina principale con Slider Revolution\" "
+"e \"Pagina principale con Contenuto\". Incolla in questo box l'alias dello "
+"slider che hai creato con il plugin Slider Revolution (solo l'<a href="
+"\"https://www.diigo.com/item/image/3rli1/s9bj?size=o\" target=\"_blank"
+"\">alias</a>, non tutto lo shortcode).<br/>Se vuoto, verr&agrave; mostrato "
+"lo slider del tema."
+
+#: inc/ot-meta-boxes.php:74
+msgid "Show on front page"
+msgstr "Mostrato sulla pagina principale"
+
+#: inc/ot-meta-boxes.php:75
+msgid "Show this service on the front page?"
+msgstr "Mostrare questo servizio sulla pagina principale?"
+
+#: inc/ot-meta-boxes.php:82 inc/theme-widgets.php:680
+msgid "Yes"
+msgstr "Si"
+
+#: inc/ot-meta-boxes.php:87 inc/theme-widgets.php:681
+msgid "No"
+msgstr "No"
+
+#: inc/ot-meta-boxes.php:129
+msgid "Team Member Custom Fields"
+msgstr "Campi Personalizzati per i Membri del Team"
+
+#: inc/ot-meta-boxes.php:130
+msgid ""
+"You can here define properties of the team member such as Age, Style, "
+"Education etc."
+msgstr ""
+"Qui puoi definire propriet&agrave; dei membri del team, come et&agrave;, "
+"style, educazione ecc..."
+
+#: inc/ot-meta-boxes.php:142
+msgid "Testimonial Options"
+msgstr "Opzioni Testimonial"
+
+#: inc/ot-meta-boxes.php:150
+msgid "Title of the author for this testimonial"
+msgstr "Titolo dell'autore di questo testimonial"
+
+#: inc/post-types.php:12 inc/post-types.php:23 titlearea.php:37
+msgid "Services"
+msgstr "Servizi"
+
+#: inc/post-types.php:13
+msgid "Service"
+msgstr "Servizio"
+
+#: inc/post-types.php:14 inc/post-types.php:43 inc/post-types.php:72
+#: inc/post-types.php:101 inc/post-types.php:129
+msgid "Add New"
+msgstr "Aggiungi Nuovo"
+
+#: inc/post-types.php:15
+msgid "Add New Service"
+msgstr "Aggiungi Nuovo Servizio"
+
+#: inc/post-types.php:16
+msgid "Edit Service"
+msgstr "Modifica Servizio"
+
+#: inc/post-types.php:17
+msgid "New Service"
+msgstr "Nuovo Servizio"
+
+#: inc/post-types.php:18
+msgid "All Services"
+msgstr "Tutti i Servizi"
+
+#: inc/post-types.php:19
+msgid "View Service"
+msgstr "Vedi Servizio"
+
+#: inc/post-types.php:20
+msgid "Search Services"
+msgstr "Cerca Servizi"
+
+#: inc/post-types.php:21
+msgid "No services found"
+msgstr "Nessun servizio trovato"
+
+#: inc/post-types.php:22
+msgid "No services found in Trash"
+msgstr "Nessun servizio trovato nel Cestino"
+
+#: inc/post-types.php:41 inc/post-types.php:52
+msgid "Team"
+msgstr "Team"
+
+#: inc/post-types.php:42
+msgid "Team Member"
+msgstr "Membro del Team"
+
+#: inc/post-types.php:44
+msgid "Add New Team Member"
+msgstr "Aggiungi Nuovo Membro del Team"
+
+#: inc/post-types.php:45
+msgid "Edit Team Member"
+msgstr "Modifica Membro del Team"
+
+#: inc/post-types.php:46
+msgid "New Team Member"
+msgstr "Nuovo Membro del Team"
+
+#: inc/post-types.php:47
+msgid "All Team Members"
+msgstr "Tutti i Membri del Team"
+
+#: inc/post-types.php:48
+msgid "View Team Member"
+msgstr "Vedi Membro del Team"
+
+#: inc/post-types.php:49
+msgid "Search Team Members"
+msgstr "Cerca Membri del Team"
+
+#: inc/post-types.php:50
+msgid "No team members found"
+msgstr "Nessun membro del team trovato"
+
+#: inc/post-types.php:51
+msgid "No team members found in Trash"
+msgstr "Nessun membro del team trovato nel Cestino"
+
+#: inc/post-types.php:70
+msgid "Galleries"
+msgstr "Gallerie"
+
+#: inc/post-types.php:71 inc/post-types.php:81 titlearea.php:39
+msgid "Gallery"
+msgstr "Galleria"
+
+#: inc/post-types.php:73
+msgid "Add New Gallery"
+msgstr "Aggiungi Nuova Galleria"
+
+#: inc/post-types.php:74
+msgid "Edit Gallery"
+msgstr "Modifica Galleria"
+
+#: inc/post-types.php:75
+msgid "New Gallery"
+msgstr "Nuova Galleria"
+
+#: inc/post-types.php:76
+msgid "All Galleries"
+msgstr "Tutte le Gallerie"
+
+#: inc/post-types.php:77
+msgid "View Gallery"
+msgstr "Vedi Galleria"
+
+#: inc/post-types.php:78
+msgid "Search Galleries"
+msgstr "Cerca Gallerie"
+
+#: inc/post-types.php:79
+msgid "No galleries found"
+msgstr "Nessuna galleria trovata"
+
+#: inc/post-types.php:80
+msgid "No galleries found in Trash"
+msgstr "Nessuna galleria trovata nel Cestino"
+
+#: inc/post-types.php:99 inc/post-types.php:110
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/post-types.php:100
+msgid "Slide"
+msgstr "Slide"
+
+#: inc/post-types.php:102
+msgid "Add New Slide"
+msgstr "Aggiungi Nuova Slide"
+
+#: inc/post-types.php:103
+msgid "Edit Slide"
+msgstr "Modifica Slide"
+
+#: inc/post-types.php:104
+msgid "New Slide"
+msgstr "Nuova Slide"
+
+#: inc/post-types.php:105
+msgid "All Slides"
+msgstr "Tutte le Slide"
+
+#: inc/post-types.php:106
+msgid "View Slide"
+msgstr "Vedi Slide"
+
+#: inc/post-types.php:107
+msgid "Search Slides"
+msgstr "Cerca Slide"
+
+#: inc/post-types.php:108
+msgid "No slides found"
+msgstr "Nessuna slide trovata"
+
+#: inc/post-types.php:109
+msgid "No slides found in Trash"
+msgstr "Nessuna slide trovata nel Cestino"
+
+#: inc/post-types.php:127 inc/post-types.php:138
+msgid "Testimonials"
+msgstr "Testimonial"
+
+#: inc/post-types.php:128
+msgid "Testimonial"
+msgstr "Testimonial"
+
+#: inc/post-types.php:130
+msgid "Add New Testimonial"
+msgstr "Aggiungi Nuovo Testimonial"
+
+#: inc/post-types.php:131
+msgid "Edit Testimonial"
+msgstr "Modifica Testimonial"
+
+#: inc/post-types.php:132
+msgid "New Testimonial"
+msgstr "Nuovo Testimonial"
+
+#: inc/post-types.php:133
+msgid "All Testimonials"
+msgstr "Tutti i Testimonial"
+
+#: inc/post-types.php:134
+msgid "View Testimonial"
+msgstr "Vedi Testimonial"
+
+#: inc/post-types.php:135
+msgid "Search Testimonials"
+msgstr "Cerca Testimonial"
+
+#: inc/post-types.php:136
+msgid "No testimonial found"
+msgstr "Nessun testimonial trovato"
+
+#: inc/post-types.php:137
+msgid "No testimonial found in Trash"
+msgstr "Nessun testimonial trovato nel Cestino"
+
+#: inc/register-sidebars.php:15
+msgid "Blog Sidebar"
+msgstr "Sidebar Blog"
+
+#: inc/register-sidebars.php:17
+msgid "Sidebar in the blog layout"
+msgstr "Sidebar nel layout blog"
+
+#: inc/register-sidebars.php:33
+msgid "Services Sidebar"
+msgstr "Sidebar Servizi"
+
+#: inc/register-sidebars.php:35
+msgid "Sidebar in the services layout"
+msgstr "Sidebar nel layout servizi"
+
+#: inc/register-sidebars.php:51
+msgid "Gallery Sidebar"
+msgstr "Sidebar Galleria"
+
+#: inc/register-sidebars.php:53
+msgid "Sidebar in the gallery layout"
+msgstr "Sidebar nel layout Galleria"
+
+#: inc/register-sidebars.php:67
+msgid "Shop Sidebar"
+msgstr "Sidebar Negozio"
+
+#: inc/register-sidebars.php:69
+msgid "Sidebar for the shop page"
+msgstr "Sidebar per la pagina Negozio"
+
+#: inc/register-sidebars.php:83
+msgid "Contact Page Sidebar"
+msgstr "Sidebar Pagina Contatti"
+
+#: inc/register-sidebars.php:85
+msgid "Sidebar on the contact us and make an appointment page"
+msgstr "Sideber per la pagina Contattaci e Appuntamenti"
+
+#: inc/register-sidebars.php:98
+msgid "Regular Page Sidebar"
+msgstr "Sidebar pagina regolare"
+
+#: inc/register-sidebars.php:100
+msgid "Sidebar on the regular page"
+msgstr "Sidebar sulla pagina regolare"
+
+#: inc/register-sidebars.php:113
+msgid "Above Slider"
+msgstr "Sopra lo Slider"
+
+#: inc/register-sidebars.php:115
+msgid "Sidebar above the slider on the homepage"
+msgstr "Sidebar sopra lo slider nella pagina principale"
+
+#: inc/register-sidebars.php:126
+msgid "Home Page - above dark stripe"
+msgstr "Pagina Principale - sopra la barra scura"
+
+#: inc/register-sidebars.php:128
+msgid "Sidebar above the dark stripe on the homepage"
+msgstr "Sidebar sopra la barra scura nella pagina principale"
+
+#: inc/register-sidebars.php:139
+msgid "Home Page - under dark stripe"
+msgstr "Pagina principale - sotto la barra scura"
+
+#: inc/register-sidebars.php:141
+msgid "Sidebar under the dark stripe on the homepage"
+msgstr "Sidebar sotto la barra scura nella pagina principale"
+
+#: inc/register-sidebars.php:152
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/register-sidebars.php:154
+msgid "Sidebar in the dark area at the bottom of the website"
+msgstr "Sidebar nell'area scura in fondo al sito"
+
+#: inc/theme-customizer.php:45
+msgid "Images"
+msgstr "Immagini"
+
+#: inc/theme-customizer.php:46
+msgid "Images for the Hairpress theme"
+msgstr "Immagini per il tema Hairpress"
+
+#: inc/theme-customizer.php:50
+msgid "Contact Page"
+msgstr "Pagina Contatti"
+
+#: inc/theme-customizer.php:51
+msgid "Settings for contact page"
+msgstr "Impostazioni per la pagina contatti"
+
+#: inc/theme-customizer.php:55
+msgid "Fonts"
+msgstr "Font"
+
+#: inc/theme-customizer.php:56
+msgid "Settings for typography"
+msgstr "Impostazioni per la tipografia"
+
+#: inc/theme-customizer.php:61
+msgid "Shop"
+msgstr "Negozio"
+
+#: inc/theme-customizer.php:62
+msgid "Settings for shop"
+msgstr "Impostazioni per il negozio"
+
+#: inc/theme-customizer.php:74
+msgid "Main Theme Color"
+msgstr "Colore Principale del Tema"
+
+#: inc/theme-customizer.php:84
+msgid "Buttons Color"
+msgstr "Colore dei Bottoni"
+
+#: inc/theme-customizer.php:94
+msgid "Base Text Color"
+msgstr "Colore di base del Testo"
+
+#: inc/theme-customizer.php:104
+msgid "Navbar Color"
+msgstr "Colore della barra di navigazione"
+
+#: inc/theme-customizer.php:114
+msgid "Navbar Text Color"
+msgstr "Colore del testo della barra di navigazione"
+
+#: inc/theme-customizer.php:124
+msgid "Backgorund Color for Titles on Subpages"
+msgstr "Colore di sfondo dei Titoli nelle sottopagine"
+
+#: inc/theme-customizer.php:134
+msgid "Color for Titles on Subpages"
+msgstr "Colore dei Titoli delle sottopagine"
+
+#: inc/theme-customizer.php:144
+msgid "Footer Color"
+msgstr "Colore del footer"
+
+#: inc/theme-customizer.php:154
+msgid "Footer Text Color"
+msgstr "Colore del testo del Footer"
+
+#: inc/theme-customizer.php:164
+msgid "Boxed or wide version?"
+msgstr "Versione Box o Wide?"
+
+#: inc/theme-customizer.php:169
+msgid "Wide"
+msgstr "Wide"
+
+#: inc/theme-customizer.php:170
+msgid "Boxed"
+msgstr "Box"
+
+#: inc/theme-customizer.php:178
+msgid "Logo image (recommended dimensions: 200(w) x 55(h))"
+msgstr "Logo (dimensioni raccomandate: 200(l) x 55(h))"
+
+#: inc/theme-customizer.php:187
+msgid "Character set for Google Fonts"
+msgstr "Set di caratteri per Google Fonts"
+
+#: inc/theme-customizer.php:203
+msgid "Favicon image (16 x 16 px), format .ico"
+msgstr "Favicon (16 x 16 px), fomato .ico"
+
+#: inc/theme-customizer.php:212
+msgid "Position of main Navbar"
+msgstr "Posizione della barra di navigazione princiaple"
+
+#: inc/theme-customizer.php:217
+msgid "Fixed when scrolling"
+msgstr "Fissa allo scroll"
+
+#: inc/theme-customizer.php:218
+msgid "Static position on the top"
+msgstr "Posizione statica sopra"
+
+#: inc/theme-customizer.php:226
+msgid "Type of Google Maps"
+msgstr "Tipo di Mappa di Google"
+
+#: inc/theme-customizer.php:231
+msgid "Normal map"
+msgstr "Mappa normale"
+
+#: inc/theme-customizer.php:232
+msgid "Satellite"
+msgstr "Satellite"
+
+#: inc/theme-customizer.php:233
+msgid "Hybrid"
+msgstr "Ibrida"
+
+#: inc/theme-customizer.php:234
+msgid "Terrain"
+msgstr "Terreno"
+
+#: inc/theme-customizer.php:251
+msgid "Zoom of Google Maps (more is closer view)"
+msgstr "Zoom della Mappa di Google (un numero maggiore aumenta lo zoom)"
+
+#: inc/theme-customizer.php:264
+msgid "Number of products per page"
+msgstr "Numero di prodotti per pagina"
+
+#: inc/theme-widgets.php:28
+msgid "Hairpress: Opening Time"
+msgstr "Hairpress: Orari di Apertura"
+
+#: inc/theme-widgets.php:30
+msgid "Opening Time Widget for placing it into the sidebar or above the slider"
+msgstr "Widget Orari di Apertura da inserire nella sidebar o sopra lo slider"
+
+#: inc/theme-widgets.php:38
+msgid "Sunday"
+msgstr "Domenica"
+
+#: inc/theme-widgets.php:39
+msgid "Monday"
+msgstr "Luned&igrave;"
+
+#: inc/theme-widgets.php:40
+msgid "Tuesday"
+msgstr "Marted&igrave;"
+
+#: inc/theme-widgets.php:41
+msgid "Wednesday"
+msgstr "Mercoled&igrave;"
+
+#: inc/theme-widgets.php:42
+msgid "Thursday"
+msgstr "Gioved&igrave;"
+
+#: inc/theme-widgets.php:43
+msgid "Friday"
+msgstr "Venerd&igrave;"
+
+#: inc/theme-widgets.php:44
+msgid "Saturday"
+msgstr "Sabato"
+
+#: inc/theme-widgets.php:173
+msgid "Opening Time"
+msgstr "Orari di Apertura"
+
+#: inc/theme-widgets.php:205
+msgid "-"
+msgstr "-"
+
+#: inc/theme-widgets.php:212
+msgid "CLOSED"
+msgstr "CHIUSO"
+
+#: inc/theme-widgets.php:224 inc/theme-widgets.php:508
+#: inc/theme-widgets.php:666 inc/theme-widgets.php:810
+#: inc/theme-widgets.php:913 inc/theme-widgets.php:1048
+#: inc/theme-widgets.php:1209
+msgid "Title:"
+msgstr "Titolo:"
+
+#: inc/theme-widgets.php:231
+msgid "opened"
+msgstr "aperto"
+
+#: inc/theme-widgets.php:233
+msgid "to"
+msgstr "alle"
+
+#: inc/theme-widgets.php:239
+msgid "Separator between hours"
+msgstr "Separatore tra le ore"
+
+#: inc/theme-widgets.php:244
+msgid "Text used for closed days"
+msgstr "Testo usato per i giorni di chiusura"
+
+#: inc/theme-widgets.php:249
+msgid "Text below the timetable for additional info (for example lunch time)"
+msgstr ""
+"Testo sotto la tabella degli orari, per informazioni aggiuntive (ad esempio "
+"la pausa pranzo)"
+
+#: inc/theme-widgets.php:278
+msgid "Hairpress: Our Services"
+msgstr "Hairpress: I nostri Servizi"
+
+#: inc/theme-widgets.php:280 inc/theme-widgets.php:404
+#: inc/theme-widgets.php:547 inc/theme-widgets.php:712
+#: inc/theme-widgets.php:954 inc/theme-widgets.php:1079
+msgid "Use this widget only on the home page of the Hairpress theme"
+msgstr "Usa questo widget solo nella pagina principale del tema Hairpress"
+
+#: inc/theme-widgets.php:319
+msgid "Read more"
+msgstr "Leggi altro"
+
+#: inc/theme-widgets.php:328 inc/theme-widgets.php:448
+msgid "READ MORE"
+msgstr "LEGGI ALTRO"
+
+#: inc/theme-widgets.php:373
+msgid "Number of services to display:"
+msgstr "Numero di servizi da mostrare:"
+
+#: inc/theme-widgets.php:402
+msgid "Hairpress: Latest News"
+msgstr "Hairpress: Ultime Notizie"
+
+#: inc/theme-widgets.php:492
+msgid "Latest News // What is going on"
+msgstr "Ultime Notizie // Cosa sta succedendo"
+
+#: inc/theme-widgets.php:512
+msgid "Number of news to display"
+msgstr "Numero di notizie da mostrare"
+
+#: inc/theme-widgets.php:516
+msgid "Text for the all posts's link"
+msgstr "Testo per il link a tutti i post"
+
+#: inc/theme-widgets.php:545
+msgid "Hairpress: Latest Galleries"
+msgstr "Hairpress: Ultime Gallerie"
+
+#: inc/theme-widgets.php:659
+msgid "Gallery // From the studio"
+msgstr "Galleria // Dallo studio"
+
+#: inc/theme-widgets.php:670
+msgid "Number of galleries to display"
+msgstr "Numero di gallerie da mostrare"
+
+#: inc/theme-widgets.php:674
+msgid "Max number of image per gallery"
+msgstr "Numero massimo di immagini per galleria"
+
+#: inc/theme-widgets.php:678
+msgid "Link images to the gallery page?"
+msgstr "Collegare le immagini alla pagina della galleria?"
+
+#: inc/theme-widgets.php:710
+msgid "Hairpress: Three Columns"
+msgstr "Hairpress: Tre Colonne"
+
+#: inc/theme-widgets.php:785
+msgid "About Us // Our interesting story"
+msgstr "Chi Siamo // La nostra interessante storia"
+
+#: inc/theme-widgets.php:814
+msgid "Link text"
+msgstr "Testo del link"
+
+#: inc/theme-widgets.php:818
+msgid "Link"
+msgstr "Link"
+
+#: inc/theme-widgets.php:824
+msgid "Text block"
+msgstr "Testo"
+
+#: inc/theme-widgets.php:849
+msgid "Hairpress: Custom Width Text For Home Page"
+msgstr "Hairpress: Testo a Larghezza Personalizzata per la Pagina Principale"
+
+#: inc/theme-widgets.php:851
+msgid ""
+"Use this widget only on the home page of the Hairpress theme. With this "
+"widget you can specify custom width of the text."
+msgstr ""
+"Utilizza questo widget solo nella pagina principale del tema Hairpress. Con "
+"questo widget puoi specificare una larghezza personalizzata per il testo."
+
+#: inc/theme-widgets.php:917
+msgid "Number of columns:"
+msgstr "Numero di colonne:"
+
+#: inc/theme-widgets.php:926
+msgid "Automatically add paragraphs"
+msgstr "Aggiungi paragrafi automaticamente"
+
+#: inc/theme-widgets.php:952
+msgid "Hairpress: Testimonials"
+msgstr "Hairpress: Testimonial"
+
+#: inc/theme-widgets.php:1044
+msgid "Testimonials // What other said about us"
+msgstr "Testimonial // Cosa dicono di noi"
+
+#: inc/theme-widgets.php:1077
+msgid "Hairpress: Divider"
+msgstr "Hairpress: Divisore"
+
+#: inc/theme-widgets.php:1129
+msgid "Hairpress: Facebook"
+msgstr "Hairpress: Facebook"
+
+#: inc/theme-widgets.php:1131
+msgid "Use this widget only in the footer of the Hairpress theme"
+msgstr "Utilizza questo widget solo nel footer del tema Hairpress"
+
+#: inc/theme-widgets.php:1199
+msgid "Facebook // Like us"
+msgstr "Facebook // Mi Piace"
+
+#: inc/theme-widgets.php:1213
+msgid "FB Page to like"
+msgstr "Pagina FB"
+
+#: index.php:41 single.php:40
+msgid "Author"
+msgstr "Autore"
+
+#: index.php:42 single.php:41
+msgid "No comments"
+msgstr "Nessun commento"
+
+#: index.php:42 single.php:41
+msgid "One comment"
+msgstr "Un commento"
+
+#. translators: % represents the number, you must include it
+#: index.php:42 single.php:41
+msgid "% comments"
+msgstr "% commenti"
+
+#: index.php:43 single.php:42
+msgid "Categories"
+msgstr "Categorie"
+
+#: index.php:43 single.php:42
+msgid "Tags"
+msgstr "Tag"
+
+#: index.php:53
+msgid "Read More"
+msgstr "Leggi Altro"
+
+#: index.php:55
+msgid "Link to this post"
+msgstr "Link a questo articolo"
+
+#: index.php:73
+msgid "No posts found, sorry."
+msgstr "Nessun articolo trovato, ci dispiace."
+
+#: searchform.php:4
+msgid "Go"
+msgstr "Vai"
+
+#: single-services.php:66
+msgid "Back to services"
+msgstr "Vai ai servizi"
+
+#: single.php:51
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:164
+#: tgm-plugin-activation/load.php:94
+msgid "Install Required Plugins"
+msgstr "Installa i Plugin Obbligatori"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:165
+#: tgm-plugin-activation/load.php:95
+msgid "Install Plugins"
+msgstr "Installa plugin"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:166
+#: tgm-plugin-activation/load.php:96
+msgid "Installing Plugin: %s"
+msgstr "Installazione del Plugin: %s"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr "Qualcosa &egrave; andata male."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:168
+#: tgm-plugin-activation/load.php:98
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "QUesto tema richiede il seguente plugin obbligatorio: %1$s."
+msgstr[1] "QUesto tema richiede i seguenti plugin obbligatori: %1$s."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:169
+#: tgm-plugin-activation/load.php:99
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Questo tema raccomanda il seguente plugin: %1$s."
+msgstr[1] "Questo tema raccomanda i seguenti plugin: %1$s."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:170
+#: tgm-plugin-activation/load.php:100
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"Siamo spiacenti, ma non hai i permessi necessari per installare il plugin "
+"%s. Contatta l'amministratore del sito per ricevere aiuto con "
+"l'installazione di questo plugin."
+msgstr[1] ""
+"Siamo spiacenti, ma non hai i permessi necessari per installare i plugin %s. "
+"Contatta l'amministratore del sito per ricevere aiuto con l'installazione di "
+"questi plugin."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:171
+#: tgm-plugin-activation/load.php:101
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+"Il seguente plugin obbligatore &egrave; attualmente non attivo: %1$s."
+msgstr[1] "I seguenti plugin obbligatori sono attualmente non attivi: %1$s."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:172
+#: tgm-plugin-activation/load.php:102
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+"Il seguente plugin raccomandato non &egrave; attualmente attivo: %1$s."
+msgstr[1] "I seguenti plugin raccomandati non sono attualmente attivi: %1$s."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:173
+#: tgm-plugin-activation/load.php:103
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Siamo spiacenti, ma non hai i permessi necessari per attivare il plugin %s. "
+"Contatta l'amministratore del sito per ricevere aiuto con l'attivazione di "
+"questo plugin."
+msgstr[1] ""
+"Siamo spiacenti, ma non hai i permessi necessari per attivare i plugin %s. "
+"Contatta l'amministratore del sito per ricevere aiuto con l'attivazione di "
+"questi plugin."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:174
+#: tgm-plugin-activation/load.php:104
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Il seguente plugin deve essere aggiornato all'ultima versione per assicurare "
+"la massima compatibilit&agrave; con questo tema: %1$s."
+msgstr[1] ""
+"I seguenti plugin devono essere aggiornati all'ultima versione per "
+"assicurare la massima compatibilit&agrave; con questo tema: %1$s."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:175
+#: tgm-plugin-activation/load.php:105
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Siamo spiacenti, ma non hai i permessi necessari per aggiornare il plugin "
+"%s. Contatta l'amministratore del sito per ricevere aiuto per "
+"l'aggiornamento del plugin."
+msgstr[1] ""
+"Siamo spiacenti, ma non hai i permessi necessari per aggiornare i plugin %s. "
+"Contatta l'amministratore del sito per ricevere aiuto per l'aggiornamento "
+"dei plugin."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:176
+#: tgm-plugin-activation/load.php:106
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Inizio installazione plugin"
+msgstr[1] "Inizio installazione plugin"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:177
+#: tgm-plugin-activation/load.php:107
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Attivazione plugin installato"
+msgstr[1] "Attivazione plugin installati"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:178
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:490
+#: tgm-plugin-activation/load.php:108
+msgid "Return to Required Plugins Installer"
+msgstr "Ritorna all'Installer dei Plugin Obbligatori"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:179
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1846
+#: tgm-plugin-activation/load.php:109
+msgid "Plugin activated successfully."
+msgstr "Plugin attivato con successo."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:180
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tutti i plugin sono stati installati e attivati con successo. %1$s"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:517
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr "Ritorna alla Bacheca"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:545
+msgid "The following plugin was activated successfully: %s."
+msgstr "Il seguente plugin &egrave; stato attivato con successo: %s."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr "Nascondi questo avviso"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr "Link Esterno"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr "Repository Privata"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr "Pre-Pacchettizzato"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr "Repository di WordPress"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr "Obbligatorio"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr "Raccomandato"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr "Non Installato"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr "Installato Ma Non Attivo"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1281
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Nessun plugin da installare o attivare. <a href=\"%1$s\" title=\"Ritorna "
+"alla Bacheca\">Ritorna alla Bacheca</a>"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr "Plugin"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr "Sorgente"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr "Tipo"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr "Stato"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr "Installa"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr "Attiva"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1544
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Il seguente plugin &egrave; stato attivato con successo:"
+msgstr[1] "I seguenti plugin sono stati attivati con successo:"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr "Archivio di installazione non disponibile."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1830
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Scarica l'archivio di installazione da <span class=\"code\">%s</span>&#8230;"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr "Decompressione dell'archivio&#8230;"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr "Installazione del plugin&#8230;"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr "Installazione del Plugin fallita."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr "Plugin installato con successo."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr "Attivazione del plugin fallita."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Il processo di installazione e attivazione sta per iniziare. Potrebbero "
+"essere necessari alcuni minuti per completare il processo su alcuni host, "
+"per favore sii paziente."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installato e attivato con successo."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr "Mostra Dettagli"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr "Nascondi Dettagli"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr "Tutte le installazioni e le attivazioni sono state completate."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1958
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installazione e Attivazione del Plugin %1$s (%2$d/%3$d)"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Il processo di intallazione sta per iniziare. Potrebbero essere necessari "
+"alcuni minuti per completare il processo su alcuni host, per favore sii "
+"paziente."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1963
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Errore durante l'installazione di %1$s: <strong>%2$s</strong>."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1964
+msgid "The installation of %1$s failed."
+msgstr "L'installazione di %1$s &egrave; fallita."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "%1$s installed successfully."
+msgstr "%1$s installato con successo."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr "Tutte le installazioni sono state completate."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1967
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installazione del Plugin %1$s (%2$d/%3$d)"
+
+#: tgm-plugin-activation/load.php:97
+msgid "Something went wrong with the plugin API."
+msgstr "Qualcosa &egrave; andata male con le API del plugin."
+
+#: tgm-plugin-activation/load.php:110
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Tutti i plugin sono stati installati e attivati con successo. %s"
+
+#: titlearea.php:31
+msgid "Category"
+msgstr "Categoria"
+
+#: titlearea.php:33
+msgid "Tag"
+msgstr "Tag"
+
+#: titlearea.php:35
+msgid "Search Results For"
+msgstr "Risultati di ricerca per"
+
+#: wp-theme-upgrader/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Per favore, inserisci il tuo nome utente di Envato Marketplace."
+
+#: wp-theme-upgrader/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Per favore, inserisci la tua API Key di Envato Marketplace."
+
+#: wp-theme-upgrader/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "Il \"set\" API &egrave; un parametro obbligatorio."
+
+#: wp-theme-upgrader/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+"L'\"item ID\" di Envato Marketplace &egrave; un parametro obbligatorio."
+
+#. Theme Name of the plugin/theme
+msgid "Hairpress WP Theme"
+msgstr "Hairpress WP Theme"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.proteusthemes.com/themes/hairpress-wp/"
+msgstr "http://www.proteusthemes.com/themes/hairpress-wp/"
+
+#. Description of the plugin/theme
+msgid ""
+"Hairpress WP Theme is perfect for Hairsalons, Beauty Salons, Welness Centers "
+"and other local business, but it serves as good for any other type of "
+"website as well."
+msgstr ""
+"Hairpress WP Theme &egrave; perfetto per Parrucchieri, Saloni di Bellezza, "
+"Centri Benessere e altre aziende locali, ma va bene anche per ogni altro "
+"tipo di sito web."
+
+#. Author of the plugin/theme
+msgid "ProteusThemes"
+msgstr "ProteusThemes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.proteusthemes.com/"
+msgstr "http://www.proteusthemes.com/"
+
+#. Template Name of the plugin/theme
+msgid "Appointment Page"
+msgstr "Pagina Prenotazioni"
+
+#. Template Name of the plugin/theme
+msgid "Contact Page without Sidebar"
+msgstr "Pagina Contatti senza Sidebar"
+
+#. Template Name of the plugin/theme
+msgid "Contact Page Template"
+msgstr "Template Pagina Contatti"
+
+#. Template Name of the plugin/theme
+msgid "Front Page with Content"
+msgstr "Pagina Principale con Contenuto"
+
+#. Template Name of the plugin/theme
+msgid "Front Page with Revolution Slider"
+msgstr "Pagina Principale con Slider Revolution"
+
+#. Template Name of the plugin/theme
+msgid "Front Page with Theme Slider (without captions)"
+msgstr "Pagina Principale con Slider del Tema (senza titoli)"
+
+#. Template Name of the plugin/theme
+msgid "Front Page with Theme Slider"
+msgstr "Pagina Principale con Slider del Tema"
+
+#. Template Name of the plugin/theme
+msgid "Regular Page without Sidebar"
+msgstr "Pagina Regolare senza Sidebar"
+
+#. Template Name of the plugin/theme
+msgid "Regular Page with a Sidebar on the Right"
+msgstr "Pagina Regolare con Sidebar a Destra"
+
+#. Template Name of the plugin/theme
+msgid "Services Layout"
+msgstr "Layout Servizi"

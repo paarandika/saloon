@@ -1,0 +1,920 @@
+# Copyright (C) 2013 ProteusThemes
+# This file is distributed under the GPL 2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hairpress WP Theme 3.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/hairpress\n"
+"POT-Creation-Date: 2013-11-27 09:58:32+00:00\n"
+"PO-Revision-Date: 2013-11-27 11:04+0100\n"
+"Last-Translator: Primoz Cigler <primoz.cigler@gmail.com>\n"
+"Language-Team: Igor Karpov <i@karpov.cc>\n"
+"Language: ru_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: 404.php:5 inc/helpers.php:107
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#. translators: the first string %s for line break, the second and third %s for
+#. link to home page wrap
+#: 404.php:13
+msgid ""
+"Looks like something went wrong! The page you were looking for is not here. "
+"%s Go %sHome%s or try to search"
+msgstr "Что-то пошло не так. Страница, которую вы ищете находится не здесь."
+
+#: _misc/translate/pomo/sample/app.php:56
+msgid "Welcome %s!"
+msgstr "Добро пожаловать %s!"
+
+#: _misc/translate/pomo/sample/app.php:60
+msgid "A string with low priority!"
+msgstr "Строка с низким приоритетом"
+
+#: _misc/translate/pomo/sample/app.php:62
+msgid "Bye\n"
+msgstr "Пока\n"
+
+#: archive-gallery.php:58 single-gallery.php:57
+msgid "Gallery not found"
+msgstr "Галерея не найдена"
+
+#: archive-services.php:68 index.php:70 single.php:72
+msgid "Not Found"
+msgstr "Не найдено"
+
+#: archive-services.php:71 front-template-page.php:50 page-no-sidebar.php:46
+#: page-right-sidebar.php:46 page.php:46 services-page.php:62
+#: single-services.php:70 single.php:75
+msgid "Page not found"
+msgstr "Страица не найдена"
+
+#: comments.php:23
+msgid "comments"
+msgstr "комментарии"
+
+#: comments.php:23
+msgid "comment"
+msgstr "комментарий"
+
+#: comments.php:34
+msgid "Comment navigation"
+msgstr "Навигация комментариев"
+
+#: comments.php:35
+msgid "&larr; Older Comments"
+msgstr "&larr; Старые комментарии"
+
+#: comments.php:36
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+#: comments.php:46 comments.php:99
+msgid "Comments for this post are closed."
+msgstr "Комментарии для данной записи закрыты"
+
+#: comments.php:65
+msgid "Write a Comment"
+msgstr "Написать комментарий"
+
+#: comments.php:66
+msgid "Fields with * are requierd"
+msgstr "Поля отмеченные * обязательны для заполнения"
+
+#: comments.php:77
+msgid "First and Last name"
+msgstr "Фамилия и имя"
+
+#: comments.php:78
+msgid "E-mail Address"
+msgstr "Электронная почта"
+
+#: comments.php:79
+msgid "Website"
+msgstr "Сайт"
+
+#: comments.php:88
+msgctxt "noun"
+msgid "Your comment"
+msgstr "Ваш комментарий"
+
+#: comments.php:90
+msgid "Post A Comment"
+msgstr "Комментировать"
+
+#: darkstripe.php:18 titlearea.php:39
+msgid "Meet the Team"
+msgstr "Команда"
+
+#: inc/custom-comments.php:51
+msgid "<p class=\"name\"><span>%s</span> said:</p>"
+msgstr "<p class=\"name\"><span>%s</span> сказали:</p>"
+
+#. translators: 1: date, 2: time
+#: inc/custom-comments.php:57
+msgid "%1$s at %2$s"
+msgstr "%1$s из %2$s"
+
+#: inc/custom-comments.php:57
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#: inc/custom-comments.php:65
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: inc/helpers.php:85
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: inc/helpers.php:102
+msgid "Home Page"
+msgstr "Главная страница"
+
+#: inc/helpers.php:103
+msgid "Archive by Category &quot;%s&quot;"
+msgstr "Архив категории &quot;%s&quot;"
+
+#: inc/helpers.php:104
+msgid "Search Results for &quot;%s&quot; Query"
+msgstr "Результаты поиска для запроса &quot;%s&quot;"
+
+#: inc/helpers.php:105
+msgid "Posts Tagged &quot;%s&quot;"
+msgstr "Записи с тегом &quot;%s&quot;"
+
+#: inc/helpers.php:106
+msgid "Articles Posted by %s"
+msgstr "Автор записи: %s"
+
+#: inc/helpers.php:228
+msgid "Page"
+msgstr "Страница"
+
+#: inc/helpers.php:276
+msgid "Previous"
+msgstr "Следующий"
+
+#: inc/helpers.php:291
+msgid "Next"
+msgstr "Предыдущий"
+
+#: inc/ot-meta-boxes.php:14 inc/ot-meta-boxes.php:57 inc/ot-meta-boxes.php:112
+msgid "Hairpress Options"
+msgstr "Опции"
+
+#: inc/ot-meta-boxes.php:15 inc/ot-meta-boxes.php:58 inc/ot-meta-boxes.php:113
+msgid "Options specific to Hairpress theme"
+msgstr "Специфические опции"
+
+#: inc/ot-meta-boxes.php:22 inc/ot-meta-boxes.php:65 inc/ot-meta-boxes.php:120
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: inc/ot-meta-boxes.php:23 inc/ot-meta-boxes.php:66 inc/ot-meta-boxes.php:121
+msgid ""
+"Subtitle of this page (shown right below the main title). Leave blank if you "
+"don't want to show."
+msgstr ""
+"Подзаголовок данной страницы. Оставьте пустым, если не хотите показывать."
+
+#: inc/ot-meta-boxes.php:31 inc/ot-meta-boxes.php:94
+msgid "Background Image for Title Area"
+msgstr "Фотоновое изображение для Заголовка"
+
+#: inc/ot-meta-boxes.php:32 inc/ot-meta-boxes.php:95
+msgid ""
+"You can upload a custom image for the background of the title area for "
+"individual page."
+msgstr ""
+"В качестве фонового вы можете загрузить свое изображение для страницы "
+"приватной страницы."
+
+#: inc/ot-meta-boxes.php:40
+msgid "Slider Revolution alias"
+msgstr "Алиас для слайдера Revolution"
+
+#: inc/ot-meta-boxes.php:41
+msgid ""
+"Only applies to the templates \"Front Page with Revolution Slider\" and "
+"\"Front page with Content\". Paste the alias of the slider you created in "
+"the Revolution Slider plugin to this box (only <a href=\"https://www.diigo."
+"com/item/image/3rli1/s9bj?size=o\" target=\"_blank\">alias</a>, not the "
+"whole shortcode).<br/>If left empy, the theme slider will be shown."
+msgstr ""
+
+#: inc/ot-meta-boxes.php:74
+msgid "Show on front page"
+msgstr "Показывать на главной"
+
+#: inc/ot-meta-boxes.php:75
+msgid "Show this service on the front page?"
+msgstr "Показывать эту услугу на главной?"
+
+#: inc/ot-meta-boxes.php:82 inc/theme-widgets.php:661
+msgid "Yes"
+msgstr "Да"
+
+#: inc/ot-meta-boxes.php:87 inc/theme-widgets.php:662
+msgid "No"
+msgstr "Нет"
+
+#: inc/ot-meta-boxes.php:129
+msgid "Team Member Custom Fields"
+msgstr "Пользовательское поле для Сотрудника"
+
+#: inc/ot-meta-boxes.php:130
+msgid ""
+"You can here define properties of the team member such as Age, Style, "
+"Education etc."
+msgstr ""
+"Вы можете задать свойства для сотрудников такие как возраст, образование и т."
+"д..."
+
+#: inc/ot-meta-boxes.php:142
+msgid "Testimonial Options"
+msgstr "Настройки рекомендаций"
+
+#: inc/ot-meta-boxes.php:150
+msgid "Title of the author for this testimonial"
+msgstr "Автор отзыва"
+
+#: inc/post-types.php:12 inc/post-types.php:23 titlearea.php:35
+msgid "Services"
+msgstr "Услуги"
+
+#: inc/post-types.php:13
+msgid "Service"
+msgstr "Услуги"
+
+#: inc/post-types.php:14 inc/post-types.php:43 inc/post-types.php:72
+#: inc/post-types.php:101 inc/post-types.php:129
+msgid "Add New"
+msgstr "Добавить"
+
+#: inc/post-types.php:15
+msgid "Add New Service"
+msgstr "Добавить услугу"
+
+#: inc/post-types.php:16
+msgid "Edit Service"
+msgstr "Редактировать услугу"
+
+#: inc/post-types.php:17
+msgid "New Service"
+msgstr "Новая услуга"
+
+#: inc/post-types.php:18
+msgid "All Services"
+msgstr "Все услуги"
+
+#: inc/post-types.php:19
+msgid "View Service"
+msgstr "Смотреть услугу"
+
+#: inc/post-types.php:20
+msgid "Search Services"
+msgstr "Искать услуги"
+
+#: inc/post-types.php:21
+msgid "No services found"
+msgstr "Услуги не найдены"
+
+#: inc/post-types.php:22
+msgid "No services found in Trash"
+msgstr "В корзине услуги не найдены"
+
+#: inc/post-types.php:41 inc/post-types.php:52
+msgid "Team"
+msgstr "Команда"
+
+#: inc/post-types.php:42
+msgid "Team Member"
+msgstr "Сотрудник"
+
+#: inc/post-types.php:44
+msgid "Add New Team Member"
+msgstr "Добавить сотрудника"
+
+#: inc/post-types.php:45
+msgid "Edit Team Member"
+msgstr "Редактировать сотрудника"
+
+#: inc/post-types.php:46
+msgid "New Team Member"
+msgstr "Новый сотрудник"
+
+#: inc/post-types.php:47
+msgid "All Team Members"
+msgstr "Все сотрудники"
+
+#: inc/post-types.php:48
+msgid "View Team Member"
+msgstr "Просмотреть сотрудника"
+
+#: inc/post-types.php:49
+msgid "Search Team Members"
+msgstr "Искать сотрудника"
+
+#: inc/post-types.php:50
+msgid "No team members found"
+msgstr "Сотрудники не найдены"
+
+#: inc/post-types.php:51
+msgid "No team members found in Trash"
+msgstr "В корзине сотрудники не найдены"
+
+#: inc/post-types.php:70
+msgid "Galleries"
+msgstr "Галереи"
+
+#: inc/post-types.php:71 inc/post-types.php:81 titlearea.php:37
+msgid "Gallery"
+msgstr "Галерея"
+
+#: inc/post-types.php:73
+msgid "Add New Gallery"
+msgstr "Добавить галерею"
+
+#: inc/post-types.php:74
+msgid "Edit Gallery"
+msgstr "Редактировать галерею"
+
+#: inc/post-types.php:75
+msgid "New Gallery"
+msgstr "Новая галерея"
+
+#: inc/post-types.php:76
+msgid "All Galleries"
+msgstr "Все галереи"
+
+#: inc/post-types.php:77
+msgid "View Gallery"
+msgstr "Смотреть галереи"
+
+#: inc/post-types.php:78
+msgid "Search Galleries"
+msgstr "Искать галереи"
+
+#: inc/post-types.php:79
+msgid "No galleries found"
+msgstr "Галереи не найдены"
+
+#: inc/post-types.php:80
+msgid "No galleries found in Trash"
+msgstr "В корзине галереи не найдены"
+
+#: inc/post-types.php:99 inc/post-types.php:110
+msgid "Slider"
+msgstr "Слайдер"
+
+#: inc/post-types.php:100
+msgid "Slide"
+msgstr "Слайд"
+
+#: inc/post-types.php:102
+msgid "Add New Slide"
+msgstr "Добавить слайд"
+
+#: inc/post-types.php:103
+msgid "Edit Slide"
+msgstr "Редактировать слайд"
+
+#: inc/post-types.php:104
+msgid "New Slide"
+msgstr "Новый слайд"
+
+#: inc/post-types.php:105
+msgid "All Slides"
+msgstr "Все слайды"
+
+#: inc/post-types.php:106
+msgid "View Slide"
+msgstr "Просмотреть слайд"
+
+#: inc/post-types.php:107
+msgid "Search Slides"
+msgstr "Искать слайды"
+
+#: inc/post-types.php:108
+msgid "No slides found"
+msgstr "Слайды не найдены"
+
+#: inc/post-types.php:109
+msgid "No slides found in Trash"
+msgstr "В корзине слайды не найдены"
+
+#: inc/post-types.php:127 inc/post-types.php:138
+msgid "Testimonials"
+msgstr "Отзывы"
+
+#: inc/post-types.php:128
+msgid "Testimonial"
+msgstr "Рекомендация"
+
+#: inc/post-types.php:130
+msgid "Add New Testimonial"
+msgstr "Добавить рекомендацию"
+
+#: inc/post-types.php:131
+msgid "Edit Testimonial"
+msgstr "Редактировать рекомендацию"
+
+#: inc/post-types.php:132
+msgid "New Testimonial"
+msgstr "Новая рекомендация"
+
+#: inc/post-types.php:133
+msgid "All Testimonials"
+msgstr "Все отзывы"
+
+#: inc/post-types.php:134
+msgid "View Testimonial"
+msgstr "Просмотреть рекомендацию"
+
+#: inc/post-types.php:135
+msgid "Search Testimonials"
+msgstr "Искать рекомендации"
+
+#: inc/post-types.php:136
+msgid "No testimonial found"
+msgstr "Рекомендации не найдены"
+
+#: inc/post-types.php:137
+msgid "No testimonial found in Trash"
+msgstr "В корзине рекомендации не найдены"
+
+#: inc/register-sidebars.php:15
+msgid "Blog Sidebar"
+msgstr "Сайдбар блога"
+
+#: inc/register-sidebars.php:17
+msgid "Sidebar in the blog layout"
+msgstr "Сайдбар в слое блога"
+
+#: inc/register-sidebars.php:33
+msgid "Services Sidebar"
+msgstr "Сайдбар услуг"
+
+#: inc/register-sidebars.php:35
+msgid "Sidebar in the services layout"
+msgstr "Сайдбар с слое услуг"
+
+#: inc/register-sidebars.php:51
+msgid "Gallery Sidebar"
+msgstr "Сайдбар галереи"
+
+#: inc/register-sidebars.php:53
+msgid "Sidebar in the gallery layout"
+msgstr "Сайдбар в слое галереи"
+
+#: inc/register-sidebars.php:66
+msgid "Contact Page Sidebar"
+msgstr "Сайдбар страницы контактов"
+
+#: inc/register-sidebars.php:68
+msgid "Sidebar on the contact us and make an appointment page"
+msgstr "Сайдбар страницы контактов и записи"
+
+#: inc/register-sidebars.php:81
+msgid "Regular Page Sidebar"
+msgstr "Сайдбар страницы"
+
+#: inc/register-sidebars.php:83
+msgid "Sidebar on the regular page"
+msgstr "Сайдбар на странице"
+
+#: inc/register-sidebars.php:96
+msgid "Above Slider"
+msgstr "Над сайдбаром"
+
+#: inc/register-sidebars.php:98
+msgid "Sidebar above the slider on the homepage"
+msgstr "Сайдбар над слайдером на главной странице"
+
+#: inc/register-sidebars.php:109
+msgid "Home Page - above dark stripe"
+msgstr "Главная страница - над черной полосой"
+
+#: inc/register-sidebars.php:111
+msgid "Sidebar above the dark stripe on the homepage"
+msgstr "Сайдбар над черной полосой на главной странице"
+
+#: inc/register-sidebars.php:122
+msgid "Home Page - under dark stripe"
+msgstr "Главная страница - под черной полосой"
+
+#: inc/register-sidebars.php:124
+msgid "Sidebar under the dark stripe on the homepage"
+msgstr "Сайдбар под черной полосой на главной странице"
+
+#: inc/register-sidebars.php:135
+msgid "Footer"
+msgstr "Подвал"
+
+#: inc/register-sidebars.php:137
+msgid "Sidebar in the dark area at the bottom of the website"
+msgstr "Сайдбар в черной полосе в подвале сайта"
+
+#: inc/theme-customizer.php:83
+msgid "Images"
+msgstr "Изображения"
+
+#: inc/theme-customizer.php:84
+msgid "Images for the Hairpress theme"
+msgstr "Изображения темы"
+
+#: inc/theme-customizer.php:88
+msgid "Contact Page"
+msgstr "Страница контактов"
+
+#: inc/theme-customizer.php:89
+msgid "Settings for contact page"
+msgstr "Настройки страницы контактов"
+
+#: inc/theme-customizer.php:100
+msgid "Main Theme Color"
+msgstr "Основные цвета"
+
+#: inc/theme-customizer.php:109
+msgid "Buttons Color"
+msgstr "Цвета кнопок"
+
+#: inc/theme-customizer.php:118
+msgid "Backgorund Color for Titles on Subpages"
+msgstr "Фоновые цвета для заголовков на подстраницах"
+
+#: inc/theme-customizer.php:127
+msgid "Color for Titles on Subpages"
+msgstr "Цвет заголовков на подстраницах"
+
+#: inc/theme-customizer.php:136
+msgid "Base Text Color"
+msgstr "Основной цвет текста"
+
+#: inc/theme-customizer.php:145
+msgid "Navbar Color"
+msgstr "Цвет меню"
+
+#: inc/theme-customizer.php:154
+msgid "Footer Color"
+msgstr "Цвет подвала"
+
+#: inc/theme-customizer.php:163
+msgid "Logo image (recommended dimensions: 200(w) x 55(h))"
+msgstr "Лого (рекомендовано: 200*55 пикселов)"
+
+#: inc/theme-customizer.php:172
+msgid "Favicon image (16 x 16 px), format .ico"
+msgstr "Фавикон (16*16 пикселов)"
+
+#: inc/theme-customizer.php:181
+msgid "Position of main Navbar"
+msgstr "Позиция основного меню"
+
+#: inc/theme-customizer.php:186
+msgid "Fixed when scrolling"
+msgstr "Фиксироваьт при скроллинге"
+
+#: inc/theme-customizer.php:187
+msgid "Static position on the top"
+msgstr "Статическая в шапке"
+
+#: inc/theme-customizer.php:195
+msgid "Type of Google Maps"
+msgstr "Тип карты"
+
+#: inc/theme-customizer.php:200
+msgid "Normal map"
+msgstr "Нормальная карта"
+
+#: inc/theme-customizer.php:201
+msgid "Satellite"
+msgstr "Сателит"
+
+#: inc/theme-customizer.php:202
+msgid "Hybrid"
+msgstr "Гибрид"
+
+#: inc/theme-customizer.php:203
+msgid "Terrain"
+msgstr "Местность"
+
+#: inc/theme-widgets.php:28
+msgid "Hairpress: Opening Time"
+msgstr "Время работы"
+
+#: inc/theme-widgets.php:30
+msgid "Opening Time Widget for placing it into the sidebar or above the slider"
+msgstr "Виджет \"Время работы\" для размещения в сайдбаре или над сайдбаром"
+
+#: inc/theme-widgets.php:155
+msgid "Opening Time"
+msgstr "Время работы"
+
+#: inc/theme-widgets.php:187
+msgid "-"
+msgstr "-"
+
+#: inc/theme-widgets.php:194
+msgid "CLOSED"
+msgstr "Закрыто"
+
+#: inc/theme-widgets.php:206 inc/theme-widgets.php:489
+#: inc/theme-widgets.php:647 inc/theme-widgets.php:791
+#: inc/theme-widgets.php:894 inc/theme-widgets.php:1029
+#: inc/theme-widgets.php:1190
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: inc/theme-widgets.php:213
+msgid "opened"
+msgstr "открыто"
+
+#: inc/theme-widgets.php:215
+msgid "to"
+msgstr "до"
+
+#: inc/theme-widgets.php:221
+msgid "Separator between hours"
+msgstr "Разделитель между часами"
+
+#: inc/theme-widgets.php:226
+msgid "Text used for closed days"
+msgstr "Текст для нерабочих дней"
+
+#: inc/theme-widgets.php:231
+msgid "Text below the timetable for additional info (for example lunch time)"
+msgstr ""
+"Текст ниже расписания для дополнительной информации (например, время обеда)"
+
+#: inc/theme-widgets.php:260
+msgid "Hairpress: Our Services"
+msgstr "Наши услуги"
+
+#: inc/theme-widgets.php:262 inc/theme-widgets.php:386
+#: inc/theme-widgets.php:528 inc/theme-widgets.php:693
+#: inc/theme-widgets.php:935 inc/theme-widgets.php:1060
+msgid "Use this widget only on the home page of the Hairpress theme"
+msgstr "Используйте этот виджет только на главной странице."
+
+#: inc/theme-widgets.php:301
+msgid "Read more"
+msgstr "Читать далее"
+
+#: inc/theme-widgets.php:310 inc/theme-widgets.php:429
+msgid "READ MORE"
+msgstr "Читать далее"
+
+#: inc/theme-widgets.php:355
+msgid "Number of services to display:"
+msgstr "Сколько услуг отображать:"
+
+#: inc/theme-widgets.php:384
+msgid "Hairpress: Latest News"
+msgstr "Последние новости"
+
+#: inc/theme-widgets.php:473
+msgid "Latest News // What is going on"
+msgstr "Последние новости // Что произошло"
+
+#: inc/theme-widgets.php:493
+msgid "Number of news to display"
+msgstr "Сколько новостей показывать"
+
+#: inc/theme-widgets.php:497
+msgid "Text for the all posts's link"
+msgstr "Текст ссылки \"все статьи\""
+
+#: inc/theme-widgets.php:526
+msgid "Hairpress: Latest Galleries"
+msgstr "Последние галереи"
+
+#: inc/theme-widgets.php:640
+msgid "Gallery // From the studio"
+msgstr "Галерея // Из студии"
+
+#: inc/theme-widgets.php:651
+msgid "Number of galleries to display"
+msgstr "Сколько галерей показывть"
+
+#: inc/theme-widgets.php:655
+msgid "Max number of image per gallery"
+msgstr ""
+
+#: inc/theme-widgets.php:659
+msgid "Link images to the gallery page?"
+msgstr ""
+
+#: inc/theme-widgets.php:691
+msgid "Hairpress: Three Columns"
+msgstr "Три колонки"
+
+#: inc/theme-widgets.php:766
+msgid "About Us // Our interesting story"
+msgstr "О нас // Наша интересная история"
+
+#: inc/theme-widgets.php:795
+msgid "Link text"
+msgstr "Текст ссылки"
+
+#: inc/theme-widgets.php:799
+msgid "Link"
+msgstr "Ссылка"
+
+#: inc/theme-widgets.php:805
+msgid "Text block"
+msgstr "Текстовый блок"
+
+#: inc/theme-widgets.php:830
+msgid "Hairpress: Custom Width Text For Home Page"
+msgstr "Текст переменной ширины для Главной страницы"
+
+#: inc/theme-widgets.php:832
+msgid ""
+"Use this widget only on the home page of the Hairpress theme. With this "
+"widget you can specify custom width of the text."
+msgstr ""
+"Используйте этот виджет только на главной странице. С этим виджетом вы "
+"можете задавать ширину текста."
+
+#: inc/theme-widgets.php:898
+msgid "Number of columns:"
+msgstr "Количество колонок:"
+
+#: inc/theme-widgets.php:907
+msgid "Automatically add paragraphs"
+msgstr "Автоматически добавлять параграфы"
+
+#: inc/theme-widgets.php:933
+msgid "Hairpress: Testimonials"
+msgstr "Рекомендации"
+
+#: inc/theme-widgets.php:1025
+msgid "Testimonials // What other said about us"
+msgstr "Рекомендации // Что о нас говорят другие"
+
+#: inc/theme-widgets.php:1058
+msgid "Hairpress: Divider"
+msgstr "Разделитель"
+
+#: inc/theme-widgets.php:1110
+msgid "Hairpress: Facebook"
+msgstr "Facebook"
+
+#: inc/theme-widgets.php:1112
+msgid "Use this widget only in the footer of the Hairpress theme"
+msgstr "Используйте этот виджет только в подвале"
+
+#: inc/theme-widgets.php:1180
+msgid "Facebook // Like us"
+msgstr "Фейсбук"
+
+#: inc/theme-widgets.php:1194
+msgid "FB Page to like"
+msgstr "Фан страница на Фейсбуке"
+
+#: index.php:41 single.php:40
+msgid "Author"
+msgstr "Автор"
+
+#: index.php:42 single.php:41
+msgid "No comments"
+msgstr "Нет комментариев"
+
+#: index.php:42 single.php:41
+msgid "One comment"
+msgstr "Один комментарий"
+
+#. translators: % represents the number, you must include it
+#: index.php:42 single.php:41
+msgid "% comments"
+msgstr "% комментариев"
+
+#: index.php:43 single.php:42
+msgid "Categories"
+msgstr "Категории"
+
+#: index.php:43 single.php:42
+msgid "Tags"
+msgstr "Теги"
+
+#: index.php:53
+msgid "Read More"
+msgstr "Читать далее"
+
+#: index.php:55
+msgid "Link to this post"
+msgstr "Ссылки на пост"
+
+#: index.php:73
+msgid "No posts found, sorry."
+msgstr "Статьи не найдены."
+
+#: searchform.php:4
+msgid "Go"
+msgstr "Go"
+
+#: single-services.php:66
+msgid "Back to services"
+msgstr "Назад к услугам"
+
+#: single.php:51
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: titlearea.php:29
+msgid "Category"
+msgstr "Категория"
+
+#: titlearea.php:31
+msgid "Tag"
+msgstr "Тег"
+
+#: titlearea.php:33
+msgid "Search Results For"
+msgstr "Результаты поиска для"
+
+#. Theme Name of the plugin/theme
+msgid "Hairpress WP Theme"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.proteusthemes.com/themes/hairpress-wp/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Hairpress WP Theme is perfect for Hairsalons, Beauty Salons, Welness Centers "
+"and other local business, but it serves as good for any other type of "
+"website as well."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ProteusThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.proteusthemes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Appointment Page"
+msgstr "Страница заявок"
+
+#. Template Name of the plugin/theme
+msgid "Contact Page without Sidebar"
+msgstr "Страница контактов без сайдбара"
+
+#. Template Name of the plugin/theme
+msgid "Contact Page Template"
+msgstr "Шаблон страницы контактов"
+
+#. Template Name of the plugin/theme
+msgid "Front Page with Content"
+msgstr "Главная страница с контентом"
+
+#. Template Name of the plugin/theme
+msgid "Front Page with Revolution Slider"
+msgstr "Главная страница со слайдером Revolution"
+
+#. Template Name of the plugin/theme
+msgid "Front Page with Theme Slider (without captions)"
+msgstr "Главная страница с темой Слайдер (без заголовка)"
+
+#. Template Name of the plugin/theme
+msgid "Front Page with Theme Slider"
+msgstr "Главная страница с темой Слайдер"
+
+#. Template Name of the plugin/theme
+msgid "Regular Page without Sidebar"
+msgstr "Страница с темой Слайдер"
+
+#. Template Name of the plugin/theme
+msgid "Regular Page with a Sidebar on the Right"
+msgstr "Страница со слайдером справа"
+
+#. Template Name of the plugin/theme
+msgid "Services Layout"
+msgstr "Слой услуги"
+
+#~ msgid "Age"
+#~ msgstr "Возраст"
+
+#~ msgid "Zodiac sign"
+#~ msgstr "Знак зодиака"
+
+#~ msgid "Education"
+#~ msgstr "Образование"
+
+#~ msgid "Experience"
+#~ msgstr "Опыт"
+
+#~ msgid "Style"
+#~ msgstr "Стиль"

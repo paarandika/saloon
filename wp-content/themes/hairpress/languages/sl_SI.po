@@ -1,0 +1,1572 @@
+# Copyright (C) 2013 ProteusThemes
+# This file is distributed under the same license as the Hairpress WP Theme package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hairpress WP Theme v0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/hairpress\n"
+"POT-Creation-Date: 2014-02-12 11:36:57+00:00\n"
+"PO-Revision-Date: 2014-02-12 13:22+0100\n"
+"Last-Translator: Primoz Cigler <primoz@proteusnet.com>\n"
+"Language-Team: ProteusThemes <info@proteusthemes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
+"%100==4 ? 3 : 0);\n"
+
+#: 404.php:5 inc/helpers.php:124
+msgid "Error 404"
+msgstr "Napaka 404"
+
+#. translators: the first string %s for line break, the second and third %s for
+#. link to home page wrap
+#: 404.php:13
+msgid ""
+"Looks like something went wrong! The page you were looking for is not here. "
+"%s Go %sHome%s or try to search"
+msgstr ""
+"Izgleda, da je nekaj šlo narobe! Stran ki jo iščeš ne obstaja. %s Pojdi na "
+"%s prvo stran %s ali poskusi z iskanjem"
+
+#: _misc/translate/pomo/sample/app.php:56
+msgid "Welcome %s!"
+msgstr "Pozdravljen %s!"
+
+#: _misc/translate/pomo/sample/app.php:60
+msgid "A string with low priority!"
+msgstr "Niz z nizko prioriteto!"
+
+#: _misc/translate/pomo/sample/app.php:62
+msgid "Bye\n"
+msgstr "Adijo\n"
+
+#: archive-gallery.php:58 single-gallery.php:57
+msgid "Gallery not found"
+msgstr "Ne najdem galerije"
+
+#: archive-services.php:68 index.php:70 single.php:72
+msgid "Not Found"
+msgstr "Ne najdem"
+
+#: archive-services.php:71 front-template-page.php:51 page-no-sidebar.php:46
+#: page-right-sidebar.php:46 page.php:46 services-page.php:62
+#: single-services.php:70 single.php:75
+msgid "Page not found"
+msgstr "Ne najdem strani"
+
+#: comments.php:23
+msgid "comments"
+msgstr "komentarjev"
+
+#: comments.php:23
+msgid "comment"
+msgstr "komentar"
+
+#: comments.php:34
+msgid "Comment navigation"
+msgstr "Navigacija komentarja"
+
+#: comments.php:35
+msgid "&larr; Older Comments"
+msgstr "&larr; Starejši komentarji"
+
+#: comments.php:36
+msgid "Newer Comments &rarr;"
+msgstr "Novejši komentarji &rarr;"
+
+#: comments.php:46 comments.php:99
+msgid "Comments for this post are closed."
+msgstr "Komentarji za ta post so onemogočeni."
+
+#: comments.php:65
+msgid "Write a Comment"
+msgstr "Napiši komentar"
+
+#: comments.php:66
+msgid "Fields with * are requierd"
+msgstr "Polja z * so obvezna"
+
+#: comments.php:77
+msgid "First and Last name"
+msgstr "Ime in priimek"
+
+#: comments.php:78
+msgid "E-mail Address"
+msgstr "E-mail naslov"
+
+#: comments.php:79
+msgid "Website"
+msgstr "Spletna stran"
+
+#: comments.php:88
+msgctxt "noun"
+msgid "Your comment"
+msgstr "Tvoj komentar"
+
+#: comments.php:90
+msgid "Post A Comment"
+msgstr "Napiši komentar"
+
+#: darkstripe.php:18 titlearea.php:41
+msgid "Meet the Team"
+msgstr "Spoznaj ekipo"
+
+#: inc/custom-comments.php:51
+msgid "<p class=\"name\"><span>%s</span> said:</p>"
+msgstr "<p class=\"name\"><span>%s</span> je povedal:</p>"
+
+#. translators: 1: date, 2: time
+#: inc/custom-comments.php:57
+msgid "%1$s at %2$s"
+msgstr "%1$s ob %2$s"
+
+#: inc/custom-comments.php:57
+msgid "(Edit)"
+msgstr "(Uredi)"
+
+#: inc/custom-comments.php:65
+msgid "Your comment is awaiting moderation."
+msgstr "Tvoj komentar čaka na potrditev."
+
+#: inc/helpers.php:85
+msgid "Page %s"
+msgstr "Stran %s"
+
+#: inc/helpers.php:119
+msgid "Home Page"
+msgstr "Prva stran"
+
+#: inc/helpers.php:120
+msgid "Archive by Category &quot;%s&quot;"
+msgstr "Arhiv kategorije &quot;%s&quot;"
+
+#: inc/helpers.php:121
+msgid "Search Results for &quot;%s&quot; Query"
+msgstr "Rezultati iskanja za  &quot;%s&quot;"
+
+#: inc/helpers.php:122
+msgid "Posts Tagged &quot;%s&quot;"
+msgstr "Posti z značko &quot;%s&quot;"
+
+#: inc/helpers.php:123
+msgid "Articles Posted by %s"
+msgstr "Posti od osebe %s"
+
+#: inc/helpers.php:245
+msgid "Page"
+msgstr "Stran"
+
+#: inc/helpers.php:293
+msgid "Previous"
+msgstr "Prejšnja"
+
+#: inc/helpers.php:308
+msgid "Next"
+msgstr "Naslednja"
+
+#: inc/ot-meta-boxes.php:14 inc/ot-meta-boxes.php:57 inc/ot-meta-boxes.php:112
+msgid "Hairpress Options"
+msgstr "Hairpress Nastavitve"
+
+#: inc/ot-meta-boxes.php:15 inc/ot-meta-boxes.php:58 inc/ot-meta-boxes.php:113
+msgid "Options specific to Hairpress theme"
+msgstr "Nastavitve za Hairpress temo"
+
+#: inc/ot-meta-boxes.php:22 inc/ot-meta-boxes.php:65 inc/ot-meta-boxes.php:120
+msgid "Subtitle"
+msgstr "Podnaslov"
+
+#: inc/ot-meta-boxes.php:23 inc/ot-meta-boxes.php:66 inc/ot-meta-boxes.php:121
+msgid ""
+"Subtitle of this page (shown right below the main title). Leave blank if you "
+"don't want to show."
+msgstr ""
+"Podnaslov za to stran (prikazan takoj pod glavnim naslovom). Pusti prazno, "
+"če ne želiš prikazati podnaslova."
+
+#: inc/ot-meta-boxes.php:31 inc/ot-meta-boxes.php:94
+msgid "Background Image for Title Area"
+msgstr "Slika za ozadje na podstrani"
+
+#: inc/ot-meta-boxes.php:32 inc/ot-meta-boxes.php:95
+msgid ""
+"You can upload a custom image for the background of the title area for "
+"individual page."
+msgstr "Tukaj lahko uploadaš custom sliko za ozadje za ozadje pod naslovom"
+
+#: inc/ot-meta-boxes.php:40
+msgid "Slider Revolution alias"
+msgstr "Slider Revolution alias"
+
+#: inc/ot-meta-boxes.php:41
+msgid ""
+"Only applies to the templates \"Front Page with Revolution Slider\" and "
+"\"Front page with Content\". Paste the alias of the slider you created in "
+"the Revolution Slider plugin to this box (only <a href=\"https://www.diigo."
+"com/item/image/3rli1/s9bj?size=o\" target=\"_blank\">alias</a>, not the "
+"whole shortcode).<br/>If left empy, the theme slider will be shown."
+msgstr ""
+"Velja samo za template \"Prva stran z Revolution Slider-jem\" in \"Prva "
+"stran z vsebino\". Prilepi alias sliderja, ki si ga ustvaril v Revolution "
+"Slider pluginu v to polje (samo <a href=\"https://www.diigo.com/item/"
+"image/3rli1/s9bj?size=o\" target=\"_blank\">alias</a>, ne celotnen "
+"shortcode).<br/>Če pustiš polje prazno, bo prikazan vgrajen slider."
+
+#: inc/ot-meta-boxes.php:74
+msgid "Show on front page"
+msgstr "Pokaži na prvi strani"
+
+#: inc/ot-meta-boxes.php:75
+msgid "Show this service on the front page?"
+msgstr "Pokaži to storitev na prvi strani?"
+
+#: inc/ot-meta-boxes.php:82 inc/theme-widgets.php:680
+msgid "Yes"
+msgstr "Ja"
+
+#: inc/ot-meta-boxes.php:87 inc/theme-widgets.php:681
+msgid "No"
+msgstr "Ne"
+
+#: inc/ot-meta-boxes.php:129
+msgid "Team Member Custom Fields"
+msgstr "Lastnosti člana ekipe"
+
+#: inc/ot-meta-boxes.php:130
+msgid ""
+"You can here define properties of the team member such as Age, Style, "
+"Education etc."
+msgstr ""
+"Tukaj lahko definirate lastnostni za člane posadke - starost, stil, "
+"izobrazbo ipd."
+
+#: inc/ot-meta-boxes.php:142
+msgid "Testimonial Options"
+msgstr "Nastavitve priporočil"
+
+#: inc/ot-meta-boxes.php:150
+msgid "Title of the author for this testimonial"
+msgstr "Naziv avtorja tega priporočila"
+
+#: inc/post-types.php:12 inc/post-types.php:23 titlearea.php:37
+msgid "Services"
+msgstr "Storitve"
+
+#: inc/post-types.php:13
+msgid "Service"
+msgstr "Storitev"
+
+#: inc/post-types.php:14 inc/post-types.php:43 inc/post-types.php:72
+#: inc/post-types.php:101 inc/post-types.php:129
+msgid "Add New"
+msgstr "Dodaj novo"
+
+#: inc/post-types.php:15
+msgid "Add New Service"
+msgstr "Dodaj novo storitev"
+
+#: inc/post-types.php:16
+msgid "Edit Service"
+msgstr "Uredi storitev"
+
+#: inc/post-types.php:17
+msgid "New Service"
+msgstr "Nova storitev"
+
+#: inc/post-types.php:18
+msgid "All Services"
+msgstr "Vse storitve"
+
+#: inc/post-types.php:19
+msgid "View Service"
+msgstr "Poglej storitev"
+
+#: inc/post-types.php:20
+msgid "Search Services"
+msgstr "Išči storitve"
+
+#: inc/post-types.php:21
+msgid "No services found"
+msgstr "Ni najdenih storitev"
+
+#: inc/post-types.php:22
+msgid "No services found in Trash"
+msgstr "Ni najdenih storitev v košu"
+
+#: inc/post-types.php:41 inc/post-types.php:52
+msgid "Team"
+msgstr "Ekipa"
+
+#: inc/post-types.php:42
+msgid "Team Member"
+msgstr "Član ekipe"
+
+#: inc/post-types.php:44
+msgid "Add New Team Member"
+msgstr "Dodaj novega člana ekipe"
+
+#: inc/post-types.php:45
+msgid "Edit Team Member"
+msgstr "Uredi člana ekipa"
+
+#: inc/post-types.php:46
+msgid "New Team Member"
+msgstr "Dodaj člana ekipe"
+
+#: inc/post-types.php:47
+msgid "All Team Members"
+msgstr "Vsi člani ekipe"
+
+#: inc/post-types.php:48
+msgid "View Team Member"
+msgstr "Poglej člana ekipe"
+
+#: inc/post-types.php:49
+msgid "Search Team Members"
+msgstr "Išči člane ekipe"
+
+#: inc/post-types.php:50
+msgid "No team members found"
+msgstr "Ne najdem članov ekipe"
+
+#: inc/post-types.php:51
+msgid "No team members found in Trash"
+msgstr "Ne najdem članov ekipe v košu"
+
+#: inc/post-types.php:70
+msgid "Galleries"
+msgstr "Galerije"
+
+#: inc/post-types.php:71 inc/post-types.php:81 titlearea.php:39
+msgid "Gallery"
+msgstr "Galerija"
+
+#: inc/post-types.php:73
+msgid "Add New Gallery"
+msgstr "Dodaj novo galerijo"
+
+#: inc/post-types.php:74
+msgid "Edit Gallery"
+msgstr "Uredi galerijo"
+
+#: inc/post-types.php:75
+msgid "New Gallery"
+msgstr "Nova galerija"
+
+#: inc/post-types.php:76
+msgid "All Galleries"
+msgstr "Vse galerije"
+
+#: inc/post-types.php:77
+msgid "View Gallery"
+msgstr "Poglej galerijo"
+
+#: inc/post-types.php:78
+msgid "Search Galleries"
+msgstr "Išči galerije"
+
+#: inc/post-types.php:79
+msgid "No galleries found"
+msgstr "Ni najdenih galerij"
+
+#: inc/post-types.php:80
+msgid "No galleries found in Trash"
+msgstr "Ni najdenih galerij v košu"
+
+#: inc/post-types.php:99 inc/post-types.php:110
+msgid "Slider"
+msgstr "Slajder"
+
+#: inc/post-types.php:100
+msgid "Slide"
+msgstr "Slajd"
+
+#: inc/post-types.php:102
+msgid "Add New Slide"
+msgstr "Dodaj nov slajd"
+
+#: inc/post-types.php:103
+msgid "Edit Slide"
+msgstr "Uredi slajd"
+
+#: inc/post-types.php:104
+msgid "New Slide"
+msgstr "Nov slajd"
+
+#: inc/post-types.php:105
+msgid "All Slides"
+msgstr "Vsi slajdi"
+
+#: inc/post-types.php:106
+msgid "View Slide"
+msgstr "Poglej slajd"
+
+#: inc/post-types.php:107
+msgid "Search Slides"
+msgstr "Išči slajde"
+
+#: inc/post-types.php:108
+msgid "No slides found"
+msgstr "Ni najdenih slajdov"
+
+#: inc/post-types.php:109
+msgid "No slides found in Trash"
+msgstr "Ni najdenih slajdov v košu"
+
+#: inc/post-types.php:127 inc/post-types.php:138
+msgid "Testimonials"
+msgstr "Priporočila"
+
+#: inc/post-types.php:128
+msgid "Testimonial"
+msgstr "Priporočilo"
+
+#: inc/post-types.php:130
+msgid "Add New Testimonial"
+msgstr "Dodaj novo priporočilo"
+
+#: inc/post-types.php:131
+msgid "Edit Testimonial"
+msgstr "Uredi priporočilo"
+
+#: inc/post-types.php:132
+msgid "New Testimonial"
+msgstr "Novo priporočilo"
+
+#: inc/post-types.php:133
+msgid "All Testimonials"
+msgstr "Vsa priporočila"
+
+#: inc/post-types.php:134
+msgid "View Testimonial"
+msgstr "Poglej priporočilo"
+
+#: inc/post-types.php:135
+msgid "Search Testimonials"
+msgstr "Išči priporočila"
+
+#: inc/post-types.php:136
+msgid "No testimonial found"
+msgstr "Ni najdenih priporočil"
+
+#: inc/post-types.php:137
+msgid "No testimonial found in Trash"
+msgstr "Ni najdenih priporočil v košu"
+
+#: inc/register-sidebars.php:15
+msgid "Blog Sidebar"
+msgstr "Stranski del bloga"
+
+#: inc/register-sidebars.php:17
+msgid "Sidebar in the blog layout"
+msgstr "Stranski del v postavitvi bloga"
+
+#: inc/register-sidebars.php:33
+msgid "Services Sidebar"
+msgstr "Stranski del storitev"
+
+#: inc/register-sidebars.php:35
+msgid "Sidebar in the services layout"
+msgstr "Strani del v postavitvi storitev"
+
+#: inc/register-sidebars.php:51
+msgid "Gallery Sidebar"
+msgstr "Strani del galerije"
+
+#: inc/register-sidebars.php:53
+msgid "Sidebar in the gallery layout"
+msgstr "Stranski del v postavitvi galerije"
+
+#: inc/register-sidebars.php:67
+msgid "Shop Sidebar"
+msgstr "Stranski del trgovine"
+
+#: inc/register-sidebars.php:69
+msgid "Sidebar for the shop page"
+msgstr "Strani del v postavitvi shop strani"
+
+#: inc/register-sidebars.php:83
+msgid "Contact Page Sidebar"
+msgstr "Stranski del kontaktne strani"
+
+#: inc/register-sidebars.php:85
+msgid "Sidebar on the contact us and make an appointment page"
+msgstr "Stranski del v postavitvi kontaknih strani"
+
+#: inc/register-sidebars.php:98
+msgid "Regular Page Sidebar"
+msgstr "Stranski del navadne strani"
+
+#: inc/register-sidebars.php:100
+msgid "Sidebar on the regular page"
+msgstr "Strani del v postavitvni navadne strani"
+
+#: inc/register-sidebars.php:113
+msgid "Above Slider"
+msgstr "Nad slajderjem"
+
+#: inc/register-sidebars.php:115
+msgid "Sidebar above the slider on the homepage"
+msgstr "Gradnik nad slajderjem na domači strani"
+
+#: inc/register-sidebars.php:126
+msgid "Home Page - above dark stripe"
+msgstr "Domača stran - nad temnim predelom"
+
+#: inc/register-sidebars.php:128
+msgid "Sidebar above the dark stripe on the homepage"
+msgstr "Gradniki nad temnim predelom na domači strani"
+
+#: inc/register-sidebars.php:139
+msgid "Home Page - under dark stripe"
+msgstr "Domača stran - pod temnim predelom"
+
+#: inc/register-sidebars.php:141
+msgid "Sidebar under the dark stripe on the homepage"
+msgstr "Gradniki pod temnim predelom na domači strani"
+
+#: inc/register-sidebars.php:152
+msgid "Footer"
+msgstr "Noga"
+
+#: inc/register-sidebars.php:154
+msgid "Sidebar in the dark area at the bottom of the website"
+msgstr "Gradniki v nogi strani"
+
+#: inc/theme-customizer.php:45
+msgid "Images"
+msgstr "Slike"
+
+#: inc/theme-customizer.php:46
+msgid "Images for the Hairpress theme"
+msgstr "Slike za Hairpress temo"
+
+#: inc/theme-customizer.php:50
+msgid "Contact Page"
+msgstr "Kontaktna stran"
+
+#: inc/theme-customizer.php:51
+msgid "Settings for contact page"
+msgstr "Nastavitve za kontaktno stran"
+
+#: inc/theme-customizer.php:55
+msgid "Fonts"
+msgstr "Fonti"
+
+#: inc/theme-customizer.php:56
+msgid "Settings for typography"
+msgstr "Nastavitve za tipografijo"
+
+#: inc/theme-customizer.php:61
+msgid "Shop"
+msgstr "Trgovina"
+
+#: inc/theme-customizer.php:62
+msgid "Settings for shop"
+msgstr "Nastavitve za shop stran"
+
+#: inc/theme-customizer.php:74
+msgid "Main Theme Color"
+msgstr "Glavna barva predloge"
+
+#: inc/theme-customizer.php:84
+msgid "Buttons Color"
+msgstr "Barva gumbov"
+
+#: inc/theme-customizer.php:94
+msgid "Base Text Color"
+msgstr "Glavna barva predloge"
+
+#: inc/theme-customizer.php:104
+msgid "Navbar Color"
+msgstr "Barva navigacijske vrstice"
+
+#: inc/theme-customizer.php:114
+msgid "Navbar Text Color"
+msgstr "Barva teksta navigacijske vrstice"
+
+#: inc/theme-customizer.php:124
+msgid "Backgorund Color for Titles on Subpages"
+msgstr "Barva ozadja pod naslovi na podstraneh"
+
+#: inc/theme-customizer.php:134
+msgid "Color for Titles on Subpages"
+msgstr "Barva naslova na podstraneh"
+
+#: inc/theme-customizer.php:144
+msgid "Footer Color"
+msgstr "Barva ozadja za nogo"
+
+#: inc/theme-customizer.php:154
+msgid "Footer Text Color"
+msgstr "Barva teksta za nogo"
+
+#: inc/theme-customizer.php:164
+msgid "Boxed or wide version?"
+msgstr "Škatlasta ali široka verzija?"
+
+#: inc/theme-customizer.php:169
+msgid "Wide"
+msgstr "Široka"
+
+#: inc/theme-customizer.php:170
+msgid "Boxed"
+msgstr "Škatlasta"
+
+#: inc/theme-customizer.php:178
+msgid "Logo image (recommended dimensions: 200(w) x 55(h))"
+msgstr "Logo (priporočene dimenzije: 200 x 55 pik)"
+
+#: inc/theme-customizer.php:187
+msgid "Character set for Google Fonts"
+msgstr "Nabor znakov"
+
+#: inc/theme-customizer.php:203
+msgid "Favicon image (16 x 16 px), format .ico"
+msgstr "Fav-ikona (16 x 16 pix), format .ico"
+
+#: inc/theme-customizer.php:212
+msgid "Position of main Navbar"
+msgstr "Pozicija glavnega menija"
+
+#: inc/theme-customizer.php:217
+msgid "Fixed when scrolling"
+msgstr "Fiksno pri skrolanju"
+
+#: inc/theme-customizer.php:218
+msgid "Static position on the top"
+msgstr "Statična pozicija na vrhu"
+
+#: inc/theme-customizer.php:226
+msgid "Type of Google Maps"
+msgstr "Tip Google Zemljevida"
+
+#: inc/theme-customizer.php:231
+msgid "Normal map"
+msgstr "Navaden zemljevid"
+
+#: inc/theme-customizer.php:232
+msgid "Satellite"
+msgstr "Satelitska slika"
+
+#: inc/theme-customizer.php:233
+msgid "Hybrid"
+msgstr "Hibrid"
+
+#: inc/theme-customizer.php:234
+msgid "Terrain"
+msgstr "Teren"
+
+#: inc/theme-customizer.php:251
+msgid "Zoom of Google Maps (more is closer view)"
+msgstr "Povečava Google Maps (več je bližje)"
+
+#: inc/theme-customizer.php:264
+msgid "Number of products per page"
+msgstr "Število produktov na stran"
+
+#: inc/theme-widgets.php:28
+msgid "Hairpress: Opening Time"
+msgstr "Hairpress: Odpiralni čas"
+
+#: inc/theme-widgets.php:30
+msgid "Opening Time Widget for placing it into the sidebar or above the slider"
+msgstr "Gradnik Odpiralni čas za v stranski del ali nad slajderjem"
+
+#: inc/theme-widgets.php:38
+msgid "Sunday"
+msgstr "Nedelja"
+
+#: inc/theme-widgets.php:39
+msgid "Monday"
+msgstr "Ponedeljek"
+
+#: inc/theme-widgets.php:40
+msgid "Tuesday"
+msgstr "Torek"
+
+#: inc/theme-widgets.php:41
+msgid "Wednesday"
+msgstr "Sreda"
+
+#: inc/theme-widgets.php:42
+msgid "Thursday"
+msgstr "Četrtek"
+
+#: inc/theme-widgets.php:43
+msgid "Friday"
+msgstr "Petek"
+
+#: inc/theme-widgets.php:44
+msgid "Saturday"
+msgstr "Sobota"
+
+#: inc/theme-widgets.php:173
+msgid "Opening Time"
+msgstr "Odpiralni čas"
+
+#: inc/theme-widgets.php:205
+msgid "-"
+msgstr "-"
+
+#: inc/theme-widgets.php:212
+msgid "CLOSED"
+msgstr "ZAPRTO"
+
+#: inc/theme-widgets.php:224 inc/theme-widgets.php:508
+#: inc/theme-widgets.php:666 inc/theme-widgets.php:810
+#: inc/theme-widgets.php:913 inc/theme-widgets.php:1048
+#: inc/theme-widgets.php:1209
+msgid "Title:"
+msgstr "Naslov:"
+
+#: inc/theme-widgets.php:231
+msgid "opened"
+msgstr "odprto"
+
+#: inc/theme-widgets.php:233
+msgid "to"
+msgstr "do"
+
+#: inc/theme-widgets.php:239
+msgid "Separator between hours"
+msgstr "Delilnik med urami"
+
+#: inc/theme-widgets.php:244
+msgid "Text used for closed days"
+msgstr "Tekst za zaprte dni"
+
+#: inc/theme-widgets.php:249
+msgid "Text below the timetable for additional info (for example lunch time)"
+msgstr "Dodatne informacije"
+
+#: inc/theme-widgets.php:278
+msgid "Hairpress: Our Services"
+msgstr "Hairpress: Naše storitve"
+
+#: inc/theme-widgets.php:280 inc/theme-widgets.php:404
+#: inc/theme-widgets.php:547 inc/theme-widgets.php:712
+#: inc/theme-widgets.php:954 inc/theme-widgets.php:1079
+msgid "Use this widget only on the home page of the Hairpress theme"
+msgstr "Ta gradnik uporabljaj samo na domači strani"
+
+#: inc/theme-widgets.php:319
+msgid "Read more"
+msgstr "Beri dalje"
+
+#: inc/theme-widgets.php:328 inc/theme-widgets.php:448
+msgid "READ MORE"
+msgstr "Beri dalje"
+
+#: inc/theme-widgets.php:373
+msgid "Number of services to display:"
+msgstr "Število storitev za prikaz"
+
+#: inc/theme-widgets.php:402
+msgid "Hairpress: Latest News"
+msgstr "Hairpress: Zadnje novice"
+
+#: inc/theme-widgets.php:492
+msgid "Latest News // What is going on"
+msgstr "Zadnje novice // Kaj se dogaja"
+
+#: inc/theme-widgets.php:512
+msgid "Number of news to display"
+msgstr "Število novic za prikaz"
+
+#: inc/theme-widgets.php:516
+msgid "Text for the all posts's link"
+msgstr "Tekst za povezavo"
+
+#: inc/theme-widgets.php:545
+msgid "Hairpress: Latest Galleries"
+msgstr "Hairpress: Zadnje galerije"
+
+#: inc/theme-widgets.php:659
+msgid "Gallery // From the studio"
+msgstr "Galerija // Iz studia"
+
+#: inc/theme-widgets.php:670
+msgid "Number of galleries to display"
+msgstr "Število galerij za prikaz"
+
+#: inc/theme-widgets.php:674
+msgid "Max number of image per gallery"
+msgstr "Maksimalno število slik v galeriji"
+
+#: inc/theme-widgets.php:678
+msgid "Link images to the gallery page?"
+msgstr "Linkaj slike na galerijo?"
+
+#: inc/theme-widgets.php:710
+msgid "Hairpress: Three Columns"
+msgstr "Hairpress: Tri kolone"
+
+#: inc/theme-widgets.php:785
+msgid "About Us // Our interesting story"
+msgstr "O nas // Naša zanimiva štorija"
+
+#: inc/theme-widgets.php:814
+msgid "Link text"
+msgstr "Tekst povezave"
+
+#: inc/theme-widgets.php:818
+msgid "Link"
+msgstr "Povezava"
+
+#: inc/theme-widgets.php:824
+msgid "Text block"
+msgstr "Vsebina"
+
+#: inc/theme-widgets.php:849
+msgid "Hairpress: Custom Width Text For Home Page"
+msgstr "Hairpress: Text Widget po možnosti"
+
+#: inc/theme-widgets.php:851
+msgid ""
+"Use this widget only on the home page of the Hairpress theme. With this "
+"widget you can specify custom width of the text."
+msgstr ""
+"Ta gradnik uporabljaj samo na domači strani. Lahko določiš kako širok bo."
+
+#: inc/theme-widgets.php:917
+msgid "Number of columns:"
+msgstr "Število stolpcev:"
+
+#: inc/theme-widgets.php:926
+msgid "Automatically add paragraphs"
+msgstr "Avtomatsko dodaj odstavke"
+
+#: inc/theme-widgets.php:952
+msgid "Hairpress: Testimonials"
+msgstr "Hairpress: Priporočila"
+
+#: inc/theme-widgets.php:1044
+msgid "Testimonials // What other said about us"
+msgstr "Priporočila // Kaj drugi pravijo o nas"
+
+#: inc/theme-widgets.php:1077
+msgid "Hairpress: Divider"
+msgstr "Hairpress: Razdelilnik"
+
+#: inc/theme-widgets.php:1129
+msgid "Hairpress: Facebook"
+msgstr "Hairpress: Facebook"
+
+#: inc/theme-widgets.php:1131
+msgid "Use this widget only in the footer of the Hairpress theme"
+msgstr "Uporabljaj samo v nogi Hairpress teme"
+
+#: inc/theme-widgets.php:1199
+msgid "Facebook // Like us"
+msgstr "Facebook // všečkajte"
+
+#: inc/theme-widgets.php:1213
+msgid "FB Page to like"
+msgstr "FB stran za všečkanje"
+
+#: index.php:41 single.php:40
+msgid "Author"
+msgstr "Avtor"
+
+#: index.php:42 single.php:41
+msgid "No comments"
+msgstr "Ni komentarjev"
+
+#: index.php:42 single.php:41
+msgid "One comment"
+msgstr "En komentar"
+
+#. translators: % represents the number, you must include it
+#: index.php:42 single.php:41
+msgid "% comments"
+msgstr "Komentarjev: %"
+
+#: index.php:43 single.php:42
+msgid "Categories"
+msgstr "Kategorije"
+
+#: index.php:43 single.php:42
+msgid "Tags"
+msgstr "Značke"
+
+#: index.php:53
+msgid "Read More"
+msgstr "Beri naprej"
+
+#: index.php:55
+msgid "Link to this post"
+msgstr "Povezava do te objave"
+
+#: index.php:73
+msgid "No posts found, sorry."
+msgstr "Ni najdenih prispevkov."
+
+#: searchform.php:4
+msgid "Go"
+msgstr "Pojdi"
+
+#: single-services.php:66
+msgid "Back to services"
+msgstr "Nazaj na storitve"
+
+#: single.php:51
+msgid "Pages:"
+msgstr "Strani:"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:164
+#: tgm-plugin-activation/load.php:94
+msgid "Install Required Plugins"
+msgstr "Inštaliraj obvezne plugine"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:165
+#: tgm-plugin-activation/load.php:95
+msgid "Install Plugins"
+msgstr "Inštaliraj plugine"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:166
+#: tgm-plugin-activation/load.php:96
+msgid "Installing Plugin: %s"
+msgstr "Inštaliram plugin: %s"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr "Nekaj je šlo narobe."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:168
+#: tgm-plugin-activation/load.php:98
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ta tema zahteva naslednje plugine: %1$s"
+msgstr[1] "Ta tema zahteva naslednji plugin: %1$s"
+msgstr[2] "Ta tema zahteva naslednja plugina: %1$s"
+msgstr[3] "Ta tema zahteva naslednje plugine: %1$s"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:169
+#: tgm-plugin-activation/load.php:99
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ta tema priporoča naslednje plugine: %1$s"
+msgstr[1] "Ta tema priporoča naslednji plugin: %1$s"
+msgstr[2] "Ta tema priporoča naslednja plugina: %1$s"
+msgstr[3] "Ta tema priporoča naslednje plugine: %1$s"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:170
+#: tgm-plugin-activation/load.php:100
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"Oprosti, ampak nimaš privilegijev, da bi inštliral plugine %s. Kontaktiraj "
+"administratorja."
+msgstr[1] ""
+"Oprosti, ampak nimaš privilegijev, da bi inštliral plugin %s. Kontaktiraj "
+"administratorja."
+msgstr[2] ""
+"Oprosti, ampak nimaš privilegijev, da bi inštliral plugina %s. Kontaktiraj "
+"administratorja."
+msgstr[3] ""
+"Oprosti, ampak nimaš privilegijev, da bi inštliral plugine %s. Kontaktiraj "
+"administratorja."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:171
+#: tgm-plugin-activation/load.php:101
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "The following required plugins are currently inactive: %1$s."
+msgstr[1] "The following required plugin is currently inactive: %1$s."
+msgstr[2] "The following required plugins are currently inactive: %1$s."
+msgstr[3] "The following required plugins are currently inactive: %1$s."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:172
+#: tgm-plugin-activation/load.php:102
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "The following recommended plugins are currently inactive: %1$s."
+msgstr[1] "The following recommended plugin is currently inactive: %1$s."
+msgstr[2] "The following recommended plugins are currently inactive: %1$s."
+msgstr[3] "The following recommended plugins are currently inactive: %1$s."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:173
+#: tgm-plugin-activation/load.php:103
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[1] ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr[2] ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[3] ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:174
+#: tgm-plugin-activation/load.php:104
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[1] ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[2] ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[3] ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:175
+#: tgm-plugin-activation/load.php:105
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[1] ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgstr[2] ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[3] ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:176
+#: tgm-plugin-activation/load.php:106
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin installing plugins"
+msgstr[1] "Begin installing plugin"
+msgstr[2] "Begin installing plugins"
+msgstr[3] "Begin installing plugins"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:177
+#: tgm-plugin-activation/load.php:107
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Activate installed plugins"
+msgstr[1] "Activate installed plugin"
+msgstr[2] "Activate installed plugins"
+msgstr[3] "Activate installed plugins"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:178
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:490
+#: tgm-plugin-activation/load.php:108
+msgid "Return to Required Plugins Installer"
+msgstr "Vrni se na inštaler pluginov"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:179
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1846
+#: tgm-plugin-activation/load.php:109
+msgid "Plugin activated successfully."
+msgstr "Plugin uspešno aktiviran."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:180
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Vse plugini uspešnno inštalirani in aktivirani: %1$s"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:517
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr "Vrni se na Dashboard"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:545
+msgid "The following plugin was activated successfully: %s."
+msgstr "Plugin uspešno aktiviran: %s"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr "Odstrani sporočilo"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr "Zunanji link"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr "Privatni repozitorij"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr "Zapakiran"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr "WordPress repozitorij"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr "Obvezen"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr "Priporočljivo"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr "Ni inštaliran"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr "Inštaliran ampak ni aktiviran"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1281
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr "Ni pluginov za inštalirat ali aktivirat."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr "Plugin"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr "Vir"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr "Tip"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr "Status"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr "Install"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr "Aktiviran"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1544
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr "Install package not available."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1830
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr "Unpacking the package&#8230;"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr "Installing the plugin&#8230;"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr "Plugin install failed."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr "Plugin installed successfully."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr "Plugin activation failed."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installed and activated successfully."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr "Show Details"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr "Hide Details"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr "All installations and activations have been completed."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1958
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1963
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "An error occurred while installing %1$s: <strong>%2$s</strong>."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1964
+msgid "The installation of %1$s failed."
+msgstr "The installation of %1$s failed."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "%1$s installed successfully."
+msgstr "%1$s installed successfully."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr "All installations have been completed."
+
+#: tgm-plugin-activation/class-tgm-plugin-activation.php:1967
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+#: tgm-plugin-activation/load.php:97
+msgid "Something went wrong with the plugin API."
+msgstr "Something went wrong with the plugin API."
+
+#: tgm-plugin-activation/load.php:110
+msgid "All plugins installed and activated successfully. %s"
+msgstr "All plugins installed and activated successfully. %s"
+
+#: titlearea.php:31
+msgid "Category"
+msgstr "Kategorija"
+
+#: titlearea.php:33
+msgid "Tag"
+msgstr "Značka"
+
+#: titlearea.php:35
+msgid "Search Results For"
+msgstr "Rezultati iskanja za"
+
+#: wp-theme-upgrader/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Please enter your Envato Marketplace Username."
+
+#: wp-theme-upgrader/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Please enter your Envato Marketplace API Key."
+
+#: wp-theme-upgrader/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "The API \"set\" is a required parameter."
+
+#: wp-theme-upgrader/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "The Envato Marketplace \"item ID\" is a required parameter."
+
+#. Theme Name of the plugin/theme
+msgid "Hairpress WP Theme"
+msgstr "Hairpress WP tema"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.proteusthemes.com/themes/hairpress-wp/"
+msgstr "http://www.proteusthemes.com/themes/hairpress-wp/"
+
+#. Description of the plugin/theme
+msgid ""
+"Hairpress WP Theme is perfect for Hairsalons, Beauty Salons, Welness Centers "
+"and other local business, but it serves as good for any other type of "
+"website as well."
+msgstr ""
+"Hairpress WP tema je prfektna za frizerske, lepotne salone in wellness "
+"centre in podobna lokalna podjetja."
+
+#. Author of the plugin/theme
+msgid "ProteusThemes"
+msgstr "ProteusThemes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.proteusthemes.com/"
+msgstr "http://www.proteusthemes.com/"
+
+#. Template Name of the plugin/theme
+msgid "Appointment Page"
+msgstr "Stran za oddajo naročil"
+
+#. Template Name of the plugin/theme
+msgid "Contact Page without Sidebar"
+msgstr "Kontaktna stran brez stranskega dela"
+
+#. Template Name of the plugin/theme
+msgid "Contact Page Template"
+msgstr "Predloga za kontaktno stran"
+
+#. Template Name of the plugin/theme
+msgid "Front Page with Content"
+msgstr "Prva stran z Revolution Slider-jem"
+
+#. Template Name of the plugin/theme
+msgid "Front Page with Revolution Slider"
+msgstr "Prva stran z Revolution Slider-jem"
+
+#. Template Name of the plugin/theme
+msgid "Front Page with Theme Slider (without captions)"
+msgstr "Prva stran z vgrajenim slajderjem (brez teksta)"
+
+#. Template Name of the plugin/theme
+msgid "Front Page with Theme Slider"
+msgstr "Prva stran z vgrajenim slajderjem"
+
+#. Template Name of the plugin/theme
+msgid "Regular Page without Sidebar"
+msgstr "Navadna stran brez stranskega dela"
+
+#. Template Name of the plugin/theme
+msgid "Regular Page with a Sidebar on the Right"
+msgstr "Navadna stran s stranskim delom na desni"
+
+#. Template Name of the plugin/theme
+msgid "Services Layout"
+msgstr "Postavitev storitev"
+
+#~ msgid "Age"
+#~ msgstr "Starost"
+
+#~ msgid "Zodiac sign"
+#~ msgstr "Astrološko znamenje"
+
+#~ msgid "Education"
+#~ msgstr "Izobrazba"
+
+#~ msgid "Experience"
+#~ msgstr "Izkušnje"
+
+#~ msgid "Style"
+#~ msgstr "Stil"
+
+#~ msgid "we said,"
+#~ msgstr "smo povedali,"
+
+#~ msgid "we"
+#~ msgstr "mi"
+
+#~ msgid "we were"
+#~ msgstr "mi smo bili"
+
+#~ msgid "we replied to"
+#~ msgstr "smo odgovorili na"
+
+#~ msgid "we were checking out"
+#~ msgstr "smo preverili"
+
+#~ msgid "loading tweets..."
+#~ msgstr "nalagam twitter ..."
+
+#~ msgid "Age of the team member."
+#~ msgstr "Starost osebe."
+
+#~ msgid "Zodiac sign of the team member."
+#~ msgstr "Astrološko znamenje osebe."
+
+#~ msgid "Education of the team member."
+#~ msgstr "Izobrazba osebe."
+
+#~ msgid "Experience of the team member."
+#~ msgstr "Izkušnje osebe."
+
+#~ msgid "Style of the team member."
+#~ msgstr "Stil osebe."
+
+#~ msgid "services"
+#~ msgstr "storitve"
+
+#~ msgid "the-team"
+#~ msgstr "ekipa"
+
+#~ msgid "gallery"
+#~ msgstr "galerija"
+
+#~ msgid "slide"
+#~ msgstr "slajd"
+
+#~ msgid "testimonial"
+#~ msgstr "priporocila"
+
+#~ msgid ""
+#~ "Type of Google Maps (m - normal map, k - satellite, h - hybrid, p - "
+#~ "terrain)"
+#~ msgstr "Tip Google Mape (m - navadna, k - satelit, h - hibrid, p - teren)"
+
+#~ msgid "Hairpress: Twitter"
+#~ msgstr "Hairpress: Twitter"
+
+#~ msgid "Twitter // Follow us"
+#~ msgstr "Twitter // Sledite nam"
+
+#~ msgid "Twitter username"
+#~ msgstr "Twitter up. ime"
+
+#~ msgid "about"
+#~ msgstr "približno"
+
+#~ msgid "hours ago"
+#~ msgstr "ur nazaj"
+
+#~ msgid "an hour ago"
+#~ msgstr "uro nazaj"
+
+#~ msgid "minutes ago"
+#~ msgstr "minut nazaj"
+
+#~ msgid "seconds ago"
+#~ msgstr "sekund nazaj"
+
+#, fuzzy
+#~ msgid "Left Sidebar"
+#~ msgstr "Stranski del bloga"
+
+#, fuzzy
+#~ msgid "Right Sidebar"
+#~ msgstr "Stranski del bloga"
+
+#, fuzzy
+#~ msgid "Full Width (no sidebar)"
+#~ msgstr "Navadna stran brez stranskega dela"
+
+#, fuzzy
+#~ msgid "Dual Sidebar"
+#~ msgstr "Stranski del bloga"
+
+#, fuzzy
+#~ msgid "Left Dual Sidebar"
+#~ msgstr "Strani del galerije"
+
+#, fuzzy
+#~ msgid "Right Dual Sidebar"
+#~ msgstr "Stranski del navadne strani"
+
+#, fuzzy
+#~ msgid "Edit"
+#~ msgstr "(Uredi)"
+
+#, fuzzy
+#~ msgid "Title"
+#~ msgstr "Naslov:"
+
+#, fuzzy
+#~ msgid "New Layout"
+#~ msgstr "Postavitev storitev"
+
+#, fuzzy
+#~ msgid "Category Select"
+#~ msgstr "Kategorija"
+
+#, fuzzy
+#~ msgid "Category Checkbox"
+#~ msgstr "Kategorija"
+
+#, fuzzy
+#~ msgid "Textblock"
+#~ msgstr "Vsebina"
+
+#, fuzzy
+#~ msgid "Textblock Titled"
+#~ msgstr "Vsebina"
+
+#, fuzzy
+#~ msgid "Add Media"
+#~ msgstr "Dodaj novo"
+
+#, fuzzy
+#~ msgid "No Categories Found"
+#~ msgstr "Ni najdenih galerij"
+
+#, fuzzy
+#~ msgid "No Posts Found"
+#~ msgstr "Ne najdem"
+
+#, fuzzy
+#~ msgid "No Pages Found"
+#~ msgstr "Ne najdem"
+
+#, fuzzy
+#~ msgid "No Tags Found"
+#~ msgstr "Ne najdem"
+
+#, fuzzy
+#~ msgid "No Taxonomies Found"
+#~ msgstr "Ni najdenih galerij"
+
+#, fuzzy
+#~ msgid "Add Section"
+#~ msgstr "Izobrazba"
+
+#, fuzzy
+#~ msgid "Contextual Help Sidebar"
+#~ msgstr "Stranski del kontaktne strani"
+
+#, fuzzy
+#~ msgid "Save Layouts"
+#~ msgstr "Postavitev storitev"
+
+#, fuzzy
+#~ msgid "Reset Options"
+#~ msgstr "Nastavitve priporočil"
+
+#, fuzzy
+#~ msgid "Theme Options UI"
+#~ msgstr "Nastavitve priporočil"
+
+#, fuzzy
+#~ msgid "Theme Options"
+#~ msgstr "Nastavitve priporočil"
+
+#, fuzzy
+#~ msgid "Documentation"
+#~ msgstr "Navigacija komentarja"
+
+#, fuzzy
+#~ msgid "Creating Options"
+#~ msgstr "Nastavitve priporočil"
